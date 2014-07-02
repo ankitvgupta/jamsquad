@@ -1,0 +1,720 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+H4,2012,2012,2012,0,0,2,Export,8,Albania,ALB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1967918947,0
+H4,2012,2012,2012,0,0,2,Export,12,Algeria,DZA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,71865748994,0
+H4,2012,2012,2012,0,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,23827186078,0
+H4,2012,2012,2012,0,0,2,Export,32,Argentina,ARG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,80927108315,0
+H4,2012,2012,2012,0,0,2,Export,36,Australia,AUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,256242912988,0
+H4,2012,2012,2012,0,0,2,Export,40,Austria,AUT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,158820954065,0
+H4,2012,2012,2012,0,0,2,Export,56,Belgium,BEL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,446854421188,0
+H4,2012,2012,2012,0,0,2,Export,60,Bermuda,BMU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9624203,0
+H4,2012,2012,2012,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11793371859,0
+H4,2012,2012,2012,0,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5161808996,0
+H4,2012,2012,2012,0,0,2,Export,76,Brazil,BRA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,242579775763,0
+H4,2012,2012,2012,0,0,2,Export,100,Bulgaria,BGR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,26698780088,0
+H4,2012,2012,2012,0,0,2,Export,112,Belarus,BLR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,46059935000,0
+H4,2012,2012,2012,0,0,2,Export,124,Canada,CAN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,453380895263,0
+H4,2012,2012,2012,0,0,2,Export,152,Chile,CHL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,78276982607,0
+H4,2012,2012,2012,0,0,2,Export,156,China,CHN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2048782233084,0
+H4,2012,2012,2012,0,0,2,Export,170,Colombia,COL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,60273618168,0
+H4,2012,2012,2012,0,0,2,Export,188,Costa Rica,CRI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11250803893,0
+H4,2012,2012,2012,0,0,2,Export,191,Croatia,HRV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,12368983411,0
+H4,2012,2012,2012,0,0,2,Export,196,Cyprus,CYP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1826017361,0
+H4,2012,2012,2012,0,0,2,Export,203,Czech Rep.,CZE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,156422742613,0
+H4,2012,2012,2012,0,0,2,Export,208,Denmark,DNK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,106125965893,0
+H4,2012,2012,2012,0,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6902480706,0
+H4,2012,2012,2012,0,0,2,Export,222,El Salvador,SLV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5339088393,0
+H4,2012,2012,2012,0,0,2,Export,233,Estonia,EST,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,18157456244,0
+H4,2012,2012,2012,0,0,2,Export,242,Fiji,FJI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1220602428,0
+H4,2012,2012,2012,0,0,2,Export,246,Finland,FIN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,72974489144,0
+H4,2012,2012,2012,0,0,2,Export,251,France,FRA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,556575681954,0
+H4,2012,2012,2012,0,0,2,Export,258,French Polynesia,PYF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,139032342,0
+H4,2012,2012,2012,0,0,2,Export,268,Georgia,GEO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2377453985,0
+H4,2012,2012,2012,0,0,2,Export,276,Germany,DEU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1416184199213,0
+H4,2012,2012,2012,0,0,2,Export,300,Greece,GRC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,35179710395,0
+H4,2012,2012,2012,0,0,2,Export,304,Greenland,GRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,476937328,0
+H4,2012,2012,2012,0,0,2,Export,320,Guatemala,GTM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10124554728,0
+H4,2012,2012,2012,0,0,2,Export,340,Honduras,HND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5006939699,0
+H4,2012,2012,2012,0,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,492907471544,0
+H4,2012,2012,2012,0,0,2,Export,348,Hungary,HUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,103006014000,0
+H4,2012,2012,2012,0,0,2,Export,352,Iceland,ISL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5063441687,0
+H4,2012,2012,2012,0,0,2,Export,360,Indonesia,IDN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,190031839234,0
+H4,2012,2012,2012,0,0,2,Export,372,Ireland,IRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,117769694867,0
+H4,2012,2012,2012,0,0,2,Export,376,Israel,ISR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,63140632000,0
+H4,2012,2012,2012,0,0,2,Export,381,Italy,ITA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,501528850943,0
+H4,2012,2012,2012,0,0,2,Export,392,Japan,JPN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,798567587570,0
+H4,2012,2012,2012,0,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,92281520630,0
+H4,2012,2012,2012,0,0,2,Export,400,Jordan,JOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7877135557,0
+H4,2012,2012,2012,0,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,547854447999,0
+H4,2012,2012,2012,0,0,2,Export,422,Lebanon,LBN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4446163434,0
+H4,2012,2012,2012,0,0,2,Export,428,Latvia,LVA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,12685521524,0
+H4,2012,2012,2012,0,0,2,Export,440,Lithuania,LTU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,29652662128,0
+H4,2012,2012,2012,0,0,2,Export,442,Luxembourg,LUX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,13747545897,0
+H4,2012,2012,2012,0,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1020521467,0
+H4,2012,2012,2012,0,0,2,Export,450,Madagascar,MDG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1224513561,0
+H4,2012,2012,2012,0,0,2,Export,462,Maldives,MDV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,161606754,0
+H4,2012,2012,2012,0,0,2,Export,470,Malta,MLT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5646270198,0
+H4,2012,2012,2012,0,0,2,Export,480,Mauritius,MUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2257737340,0
+H4,2012,2012,2012,0,0,2,Export,484,Mexico,MEX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,370642551856,0
+H4,2012,2012,2012,0,0,2,Export,499,Montenegro,MNE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,468788331,0
+H4,2012,2012,2012,0,0,2,Export,512,Oman,OMN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,52138225677,0
+H4,2012,2012,2012,0,0,2,Export,516,Namibia,NAM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5376995496,0
+H4,2012,2012,2012,0,0,2,Export,528,Netherlands,NLD,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,554677906667,0
+H4,2012,2012,2012,0,0,2,Export,554,New Zealand,NZL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,37304685387,0
+H4,2012,2012,2012,0,0,2,Export,558,Nicaragua,NIC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2690039849,0
+H4,2012,2012,2012,0,0,2,Export,579,Norway,NOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,160999480294,0
+H4,2012,2012,2012,0,0,2,Export,586,Pakistan,PAK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,24613675622,0
+H4,2012,2012,2012,0,0,2,Export,591,Panama,PAN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,821852382,0
+H4,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4517686274,0
+H4,2012,2012,2012,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7271300375,0
+H4,2012,2012,2012,0,0,2,Export,604,Peru,PER,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,45946179730,0
+H4,2012,2012,2012,0,0,2,Export,616,Poland,POL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,179603599442,0
+H4,2012,2012,2012,0,0,2,Export,620,Portugal,PRT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,58378985798,0
+H4,2012,2012,2012,0,0,2,Export,642,Romania,ROU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,57904330434,0
+H4,2012,2012,2012,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,524766420613,0
+H4,2012,2012,2012,0,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,388401064434,0
+H4,2012,2012,2012,0,0,2,Export,688,Serbia,SRB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11353055902,0
+H4,2012,2012,2012,0,0,2,Export,702,Singapore,SGP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,408393019734,0
+H4,2012,2012,2012,0,0,2,Export,703,Slovakia,SVK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,79866996369,0
+H4,2012,2012,2012,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,114529170983,0
+H4,2012,2012,2012,0,0,2,Export,705,Slovenia,SVN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,27080021571,0
+H4,2012,2012,2012,0,0,2,Export,710,South Africa,ZAF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,86711971156,0
+H4,2012,2012,2012,0,0,2,Export,724,Spain,ESP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,285936445693,0
+H4,2012,2012,2012,0,0,2,Export,729,Sudan,SDN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3383881124,0
+H4,2012,2012,2012,0,0,2,Export,752,Sweden,SWE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,172756026329,0
+H4,2012,2012,2012,0,0,2,Export,757,Switzerland,CHE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,225948761820,0
+H4,2012,2012,2012,0,0,2,Export,764,Thailand,THA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,229544513253,0
+H4,2012,2012,2012,0,0,2,Export,788,Tunisia,TUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,17007445910,0
+H4,2012,2012,2012,0,0,2,Export,792,Turkey,TUR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,152536652596,0
+H4,2012,2012,2012,0,0,2,Export,800,Uganda,UGA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2357493248,0
+H4,2012,2012,2012,0,0,2,Export,807,TFYR of Macedonia,MKD,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4001857201,0
+H4,2012,2012,2012,0,0,2,Export,826,United Kingdom,GBR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,481225753723,0
+H4,2012,2012,2012,0,0,2,Export,842,USA,USA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1545565185671,0
+H4,2012,2012,2012,0,0,2,Export,858,Uruguay,URY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8709217341,0
+H4,2012,2012,2012,0,0,2,Export,882,Samoa,WSM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,76101616,0
+H4,2012,2012,2012,0,0,2,Export,887,Yemen,YEM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7062059466,0
+H4,2012,2012,2012,0,0,2,Export,894,Zambia,ZMB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9364652698,0
+H4,2013,2013,2013,0,0,2,Export,8,Albania,ALB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2331521928,0
+H4,2013,2013,2013,0,0,2,Export,12,Algeria,DZA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,65998137595,0
+H4,2013,2013,2013,0,0,2,Export,36,Australia,AUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,252155105281,0
+H4,2013,2013,2013,0,0,2,Export,51,Armenia,ARM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1467799672,0
+H4,2013,2013,2013,0,0,2,Export,56,Belgium,BEL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,511492494594,0
+H4,2013,2013,2013,0,0,2,Export,60,Bermuda,BMU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,21705082,0
+H4,2013,2013,2013,0,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5687313826,0
+H4,2013,2013,2013,0,0,2,Export,76,Brazil,BRA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,242178053784,0
+H4,2013,2013,2013,0,0,2,Export,112,Belarus,BLR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,37557863400,0
+H4,2013,2013,2013,0,0,2,Export,124,Canada,CAN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,456395278173,0
+H4,2013,2013,2013,0,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,69228089,0
+H4,2013,2013,2013,0,0,2,Export,152,Chile,CHL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,77367262820,0
+H4,2013,2013,2013,0,0,2,Export,156,China,CHN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2209007280259,0
+H4,2013,2013,2013,0,0,2,Export,170,Colombia,COL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,58821869987,0
+H4,2013,2013,2013,0,0,2,Export,188,Costa Rica,CRI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11479876087,0
+H4,2013,2013,2013,0,0,2,Export,191,Croatia,HRV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11927530544,0
+H4,2013,2013,2013,0,0,2,Export,196,Cyprus,CYP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2137490091,0
+H4,2013,2013,2013,0,0,2,Export,203,Czech Rep.,CZE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,161001987383,0
+H4,2013,2013,2013,0,0,2,Export,218,Ecuador,ECU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,24957644407,0
+H4,2013,2013,2013,0,0,2,Export,222,El Salvador,SLV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5491093561,0
+H4,2013,2013,2013,0,0,2,Export,233,Estonia,EST,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,18256653358,0
+H4,2013,2013,2013,0,0,2,Export,251,France,FRA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,566879046556,0
+H4,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,151488051,0
+H4,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2909254858,0
+H4,2013,2013,2013,0,0,2,Export,276,Germany,DEU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1458646977784,0
+H4,2013,2013,2013,0,0,2,Export,288,Ghana,GHA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,15580158006,0
+H4,2013,2013,2013,0,0,2,Export,300,Greece,GRC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,36259498856,0
+H4,2013,2013,2013,0,0,2,Export,304,Greenland,GRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,490065316,0
+H4,2013,2013,2013,0,0,2,Export,320,Guatemala,GTM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10065328599,0
+H4,2013,2013,2013,0,0,2,Export,348,Hungary,HUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,108297670417,0
+H4,2013,2013,2013,0,0,2,Export,352,Iceland,ISL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5001012102,0
+H4,2013,2013,2013,0,0,2,Export,360,Indonesia,IDN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,182551754383,0
+H4,2013,2013,2013,0,0,2,Export,372,Ireland,IRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,115323454035,0
+H4,2013,2013,2013,0,0,2,Export,376,Israel,ISR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,66781207000,0
+H4,2013,2013,2013,0,0,2,Export,381,Italy,ITA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,513716644217,0
+H4,2013,2013,2013,0,0,2,Export,392,Japan,JPN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,715097244251,0
+H4,2013,2013,2013,0,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,82510022886,0
+H4,2013,2013,2013,0,0,2,Export,400,Jordan,JOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7919620755,0
+H4,2013,2013,2013,0,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,559618558899,0
+H4,2013,2013,2013,0,0,2,Export,422,Lebanon,LBN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3937065938,0
+H4,2013,2013,2013,0,0,2,Export,428,Latvia,LVA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,13288798662,0
+H4,2013,2013,2013,0,0,2,Export,440,Lithuania,LTU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,32611865980,0
+H4,2013,2013,2013,0,0,2,Export,442,Luxembourg,LUX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,13800393725,0
+H4,2013,2013,2013,0,0,2,Export,458,Malaysia,MYS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,228515733550,0
+H4,2013,2013,2013,0,0,2,Export,480,Mauritius,MUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2344575369,0
+H4,2013,2013,2013,0,0,2,Export,496,Mongolia,MNG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4269055846,0
+H4,2013,2013,2013,0,0,2,Export,499,Montenegro,MNE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,494375744,0
+H4,2013,2013,2013,0,0,2,Export,516,Namibia,NAM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6337215726,0
+H4,2013,2013,2013,0,0,2,Export,554,New Zealand,NZL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,39206358371,0
+H4,2013,2013,2013,0,0,2,Export,579,Norway,NOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,153257883695,0
+H4,2013,2013,2013,0,0,2,Export,586,Pakistan,PAK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,25120883202,0
+H4,2013,2013,2013,0,0,2,Export,591,Panama,PAN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,843913060,0
+H4,2013,2013,2013,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9432252150,0
+H4,2013,2013,2013,0,0,2,Export,604,Peru,PER,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,41871688925,0
+H4,2013,2013,2013,0,0,2,Export,616,Poland,POL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,199657621733,0
+H4,2013,2013,2013,0,0,2,Export,620,Portugal,PRT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,62857742573,0
+H4,2013,2013,2013,0,0,2,Export,642,Romania,ROU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,65881441578,0
+H4,2013,2013,2013,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,527265918851,0
+H4,2013,2013,2013,0,0,2,Export,646,Rwanda,RWA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,620468875,0
+H4,2013,2013,2013,0,0,2,Export,688,Serbia,SRB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,14613752021,0
+H4,2013,2013,2013,0,0,2,Export,699,India,IND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,336611388774,0
+H4,2013,2013,2013,0,0,2,Export,702,Singapore,SGP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,410249671134,0
+H4,2013,2013,2013,0,0,2,Export,703,Slovakia,SVK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,85436198974,0
+H4,2013,2013,2013,0,0,2,Export,705,Slovenia,SVN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,28734599125,0
+H4,2013,2013,2013,0,0,2,Export,710,South Africa,ZAF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,95224782633,0
+H4,2013,2013,2013,0,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3507296016,0
+H4,2013,2013,2013,0,0,2,Export,724,Spain,ESP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,310963647634,0
+H4,2013,2013,2013,0,0,2,Export,752,Sweden,SWE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,167597372347,0
+H4,2013,2013,2013,0,0,2,Export,757,Switzerland,CHE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,229156592018,0
+H4,2013,2013,2013,0,0,2,Export,764,Thailand,THA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,228527440414,0
+H4,2013,2013,2013,0,0,2,Export,788,Tunisia,TUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,17060464620,0
+H4,2013,2013,2013,0,0,2,Export,792,Turkey,TUR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,151868550560,0
+H4,2013,2013,2013,0,0,2,Export,800,Uganda,UGA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2407735576,0
+H4,2013,2013,2013,0,0,2,Export,807,TFYR of Macedonia,MKD,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4266854771,0
+H4,2013,2013,2013,0,0,2,Export,826,United Kingdom,GBR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,548967452774,0
+H4,2013,2013,2013,0,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4412548850,0
+H4,2013,2013,2013,0,0,2,Export,842,USA,USA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1578001361900,0
+H4,2013,2013,2013,0,0,2,Export,858,Uruguay,URY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9065753626,0
+H4,2013,2013,2013,0,0,2,Export,882,Samoa,WSM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,62108623,0
+H4,2013,2013,2013,0,0,2,Export,894,Zambia,ZMB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10594069231,0
+H3,2009,2009,2009,0,0,2,Export,8,Albania,ALB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1087914902,0
+H3,2009,2009,2009,0,0,2,Export,12,Algeria,DZA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,45193920241,0
+H3,2009,2009,2009,0,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,14688727691,0
+H3,2009,2009,2009,0,0,2,Export,32,Argentina,ARG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,55672118600,0
+H3,2009,2009,2009,0,0,2,Export,36,Australia,AUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,153766558119,0
+H3,2009,2009,2009,0,0,2,Export,40,Austria,AUT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,131387248005,0
+H3,2009,2009,2009,0,0,2,Export,44,Bahamas,BHS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,584878552,0
+H3,2009,2009,2009,0,0,2,Export,48,Bahrain,BHR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8383999812,0
+H3,2009,2009,2009,0,0,2,Export,51,Armenia,ARM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,683989374,0
+H3,2009,2009,2009,0,0,2,Export,56,Belgium,BEL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,370879193628,0
+H3,2009,2009,2009,0,0,2,Export,64,Bhutan,BTN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,495846190,0
+H3,2009,2009,2009,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5296740089,0
+H3,2009,2009,2009,0,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3953920135,0
+H3,2009,2009,2009,0,0,2,Export,76,Brazil,BRA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,152994742805,0
+H3,2009,2009,2009,0,0,2,Export,100,Bulgaria,BGR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,16502519893,0
+H3,2009,2009,2009,0,0,2,Export,112,Belarus,BLR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,21304172900,0
+H3,2009,2009,2009,0,0,2,Export,116,Cambodia,KHM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4992009584,0
+H3,2009,2009,2009,0,0,2,Export,124,Canada,CAN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,315176831385,0
+H3,2009,2009,2009,0,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,35169462,0
+H3,2009,2009,2009,0,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7121490779,0
+H3,2009,2009,2009,0,0,2,Export,152,Chile,CHL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,55458976977,0
+H3,2009,2009,2009,0,0,2,Export,156,China,CHN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1201646758080,0
+H3,2009,2009,2009,0,0,2,Export,170,Colombia,COL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,32852985837,0
+H3,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6780235,0
+H3,2009,2009,2009,0,0,2,Export,188,Costa Rica,CRI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8836344677,0
+H3,2009,2009,2009,0,0,2,Export,191,Croatia,HRV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10491835496,0
+H3,2009,2009,2009,0,0,2,Export,196,Cyprus,CYP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1350948810,0
+H3,2009,2009,2009,0,0,2,Export,203,Czech Rep.,CZE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,112884321338,0
+H3,2009,2009,2009,0,0,2,Export,208,Denmark,DNK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,91800963333,0
+H3,2009,2009,2009,0,0,2,Export,212,Dominica,DMA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,33486434,0
+H3,2009,2009,2009,0,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4374407643,0
+H3,2009,2009,2009,0,0,2,Export,218,Ecuador,ECU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,13863049882,0
+H3,2009,2009,2009,0,0,2,Export,222,El Salvador,SLV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3866080098,0
+H3,2009,2009,2009,0,0,2,Export,231,Ethiopia,ETH,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1618165976,0
+H3,2009,2009,2009,0,0,2,Export,233,Estonia,EST,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10445840389,0
+H3,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,761743826,0
+H3,2009,2009,2009,0,0,2,Export,242,Fiji,FJI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,628674985,0
+H3,2009,2009,2009,0,0,2,Export,246,Finland,FIN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,62860482542,0
+H3,2009,2009,2009,0,0,2,Export,251,France,FRA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,464112810974,0
+H3,2009,2009,2009,0,0,2,Export,258,French Polynesia,PYF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,148270991,0
+H3,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,363708835,0
+H3,2009,2009,2009,0,0,2,Export,268,Georgia,GEO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1133621540,0
+H3,2009,2009,2009,0,0,2,Export,275,State of Palestine,PSE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,518355482,0
+H3,2009,2009,2009,0,0,2,Export,276,Germany,DEU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1127839933000,0
+H3,2009,2009,2009,0,0,2,Export,300,Greece,GRC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,20052540682,0
+H3,2009,2009,2009,0,0,2,Export,304,Greenland,GRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,371560136,0
+H3,2009,2009,2009,0,0,2,Export,320,Guatemala,GTM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7208585980,0
+H3,2009,2009,2009,0,0,2,Export,328,Guyana,GUY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,788385151,0
+H3,2009,2009,2009,0,0,2,Export,340,Honduras,HND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2628303393,0
+H3,2009,2009,2009,0,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,329421934952,0
+H3,2009,2009,2009,0,0,2,Export,348,Hungary,HUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,82571847000,0
+H3,2009,2009,2009,0,0,2,Export,352,Iceland,ISL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4056961689,0
+H3,2009,2009,2009,0,0,2,Export,372,Ireland,IRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,116894674172,0
+H3,2009,2009,2009,0,0,2,Export,376,Israel,ISR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,47934614000,0
+H3,2009,2009,2009,0,0,2,Export,381,Italy,ITA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,406479126912,0
+H3,2009,2009,2009,0,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10280077341,0
+H3,2009,2009,2009,0,0,2,Export,388,Jamaica,JAM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1316037052,0
+H3,2009,2009,2009,0,0,2,Export,392,Japan,JPN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,580718733734,0
+H3,2009,2009,2009,0,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,43195762042,0
+H3,2009,2009,2009,0,0,2,Export,400,Jordan,JOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6365744224,0
+H3,2009,2009,2009,0,0,2,Export,404,Kenya,KEN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4463443078,0
+H3,2009,2009,2009,0,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,363531063379,0
+H3,2009,2009,2009,0,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1178273614,0
+H3,2009,2009,2009,0,0,2,Export,422,Lebanon,LBN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3484154763,0
+H3,2009,2009,2009,0,0,2,Export,428,Latvia,LVA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7171469774,0
+H3,2009,2009,2009,0,0,2,Export,440,Lithuania,LTU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,16496339326,0
+H3,2009,2009,2009,0,0,2,Export,442,Luxembourg,LUX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,12542132517,0
+H3,2009,2009,2009,0,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,960686358,0
+H3,2009,2009,2009,0,0,2,Export,450,Madagascar,MDG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1095897922,0
+H3,2009,2009,2009,0,0,2,Export,454,Malawi,MWI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1187916827,0
+H3,2009,2009,2009,0,0,2,Export,458,Malaysia,MYS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,157194831522,0
+H3,2009,2009,2009,0,0,2,Export,462,Maldives,MDV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,76665464,0
+H3,2009,2009,2009,0,0,2,Export,470,Malta,MLT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2280269219,0
+H3,2009,2009,2009,0,0,2,Export,480,Mauritius,MUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1765792104,0
+H3,2009,2009,2009,0,0,2,Export,484,Mexico,MEX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,229712337305,0
+H3,2009,2009,2009,0,0,2,Export,490,"Other Asia, nes",,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,203493849503,0
+H3,2009,2009,2009,0,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1282980994,0
+H3,2009,2009,2009,0,0,2,Export,499,Montenegro,MNE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,387540282,0
+H3,2009,2009,2009,0,0,2,Export,516,Namibia,NAM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5870619650,0
+H3,2009,2009,2009,0,0,2,Export,524,Nepal,NPL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,885999101,0
+H3,2009,2009,2009,0,0,2,Export,528,Netherlands,NLD,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,431502452471,0
+H3,2009,2009,2009,0,0,2,Export,533,Aruba,ABW,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,135747078,0
+H3,2009,2009,2009,0,0,2,Export,540,New Caledonia,NCL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2082815178,0
+H3,2009,2009,2009,0,0,2,Export,554,New Zealand,NZL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,24932601209,0
+H3,2009,2009,2009,0,0,2,Export,558,Nicaragua,NIC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1393053781,0
+H3,2009,2009,2009,0,0,2,Export,562,Niger,NER,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,628011881,0
+H3,2009,2009,2009,0,0,2,Export,566,Nigeria,NGA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,49937459606,0
+H3,2009,2009,2009,0,0,2,Export,579,Norway,NOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,114675479612,0
+H3,2009,2009,2009,0,0,2,Export,586,Pakistan,PAK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,17554698477,0
+H3,2009,2009,2009,0,0,2,Export,591,Panama,PAN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10716686967,0
+H3,2009,2009,2009,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3167021313,0
+H3,2009,2009,2009,0,0,2,Export,604,Peru,PER,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,26738259539,0
+H3,2009,2009,2009,0,0,2,Export,616,Poland,POL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,136641304601,0
+H3,2009,2009,2009,0,0,2,Export,620,Portugal,PRT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,43396539001,0
+H3,2009,2009,2009,0,0,2,Export,634,Qatar,QAT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,48007107195,0
+H3,2009,2009,2009,0,0,2,Export,642,Romania,ROU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,40620889720,0
+H3,2009,2009,2009,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,301796058824,0
+H3,2009,2009,2009,0,0,2,Export,646,Rwanda,RWA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,260659771,0
+H3,2009,2009,2009,0,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,37674175,0
+H3,2009,2009,2009,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,49063774,0
+H3,2009,2009,2009,0,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,192314122014,0
+H3,2009,2009,2009,0,0,2,Export,686,Senegal,SEN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2017385759,0
+H3,2009,2009,2009,0,0,2,Export,688,Serbia,SRB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8345076235,0
+H3,2009,2009,2009,0,0,2,Export,699,India,IND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,176765036339,0
+H3,2009,2009,2009,0,0,2,Export,702,Singapore,SGP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,269832461127,0
+H3,2009,2009,2009,0,0,2,Export,703,Slovakia,SVK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,55553022159,0
+H3,2009,2009,2009,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,57096274457,0
+H3,2009,2009,2009,0,0,2,Export,705,Slovenia,SVN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,22405415273,0
+H3,2009,2009,2009,0,0,2,Export,710,South Africa,ZAF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,53863891902,0
+H3,2009,2009,2009,0,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2268897696,0
+H3,2009,2009,2009,0,0,2,Export,724,Spain,ESP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,223132207940,0
+H3,2009,2009,2009,0,0,2,Export,736,Fmr Sudan,SDN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9079520267,0
+H3,2009,2009,2009,0,0,2,Export,752,Sweden,SWE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,131116175379,0
+H3,2009,2009,2009,0,0,2,Export,757,Switzerland,CHE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,172474145683,0
+H3,2009,2009,2009,0,0,2,Export,760,Syria,SYR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9693796900,0
+H3,2009,2009,2009,0,0,2,Export,764,Thailand,THA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,152497202591,0
+H3,2009,2009,2009,0,0,2,Export,768,Togo,TGO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,734720327,0
+H3,2009,2009,2009,0,0,2,Export,776,Tonga,TON,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7798458,0
+H3,2009,2009,2009,0,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9125970627,0
+H3,2009,2009,2009,0,0,2,Export,788,Tunisia,TUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,14445136032,0
+H3,2009,2009,2009,0,0,2,Export,792,Turkey,TUR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,102138525691,0
+H3,2009,2009,2009,0,0,2,Export,800,Uganda,UGA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1567614423,0
+H3,2009,2009,2009,0,0,2,Export,807,TFYR of Macedonia,MKD,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2691528007,0
+H3,2009,2009,2009,0,0,2,Export,818,Egypt,EGY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,24182270177,0
+H3,2009,2009,2009,0,0,2,Export,826,United Kingdom,GBR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,359615540058,0
+H3,2009,2009,2009,0,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2982404782,0
+H3,2009,2009,2009,0,0,2,Export,842,USA,USA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1056712078245,0
+H3,2009,2009,2009,0,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,795541759,0
+H3,2009,2009,2009,0,0,2,Export,858,Uruguay,URY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5404763196,0
+H3,2009,2009,2009,0,0,2,Export,882,Samoa,WSM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,45976145,0
+H3,2009,2009,2009,0,0,2,Export,887,Yemen,YEM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6258955204,0
+H3,2009,2009,2009,0,0,2,Export,894,Zambia,ZMB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4312054540,0
+H3,2010,2010,2010,0,0,2,Export,8,Albania,ALB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1549955724,0
+H3,2010,2010,2010,0,0,2,Export,12,Algeria,DZA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,57050973573,0
+H3,2010,2010,2010,0,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,21278419980,0
+H3,2010,2010,2010,0,0,2,Export,32,Argentina,ARG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,68187227424,0
+H3,2010,2010,2010,0,0,2,Export,36,Australia,AUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,206705136203,0
+H3,2010,2010,2010,0,0,2,Export,40,Austria,AUT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,144882002012,0
+H3,2010,2010,2010,0,0,2,Export,44,Bahamas,BHS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,620143299,0
+H3,2010,2010,2010,0,0,2,Export,48,Bahrain,BHR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,16059213418,0
+H3,2010,2010,2010,0,0,2,Export,51,Armenia,ARM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1011424747,0
+H3,2010,2010,2010,0,0,2,Export,56,Belgium,BEL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,407595914298,0
+H3,2010,2010,2010,0,0,2,Export,64,Bhutan,BTN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,413482438,0
+H3,2010,2010,2010,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6965357279,0
+H3,2010,2010,2010,0,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4803107191,0
+H3,2010,2010,2010,0,0,2,Export,76,Brazil,BRA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,197356436225,0
+H3,2010,2010,2010,0,0,2,Export,84,Belize,BLZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,282039532,0
+H3,2010,2010,2010,0,0,2,Export,100,Bulgaria,BGR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,20608005156,0
+H3,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7625236775,0
+H3,2010,2010,2010,0,0,2,Export,108,Burundi,BDI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,118157916,0
+H3,2010,2010,2010,0,0,2,Export,112,Belarus,BLR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,25283462300,0
+H3,2010,2010,2010,0,0,2,Export,116,Cambodia,KHM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5590104093,0
+H3,2010,2010,2010,0,0,2,Export,124,Canada,CAN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,386579899704,0
+H3,2010,2010,2010,0,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,46557965,0
+H3,2010,2010,2010,0,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,89815644,0
+H3,2010,2010,2010,0,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8304051802,0
+H3,2010,2010,2010,0,0,2,Export,152,Chile,CHL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,71106105854,0
+H3,2010,2010,2010,0,0,2,Export,156,China,CHN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1577763750888,0
+H3,2010,2010,2010,0,0,2,Export,170,Colombia,COL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,39819528642,0
+H3,2010,2010,2010,0,0,2,Export,188,Costa Rica,CRI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9044840676,0
+H3,2010,2010,2010,0,0,2,Export,191,Croatia,HRV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11810676241,0
+H3,2010,2010,2010,0,0,2,Export,196,Cyprus,CYP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1506457953,0
+H3,2010,2010,2010,0,0,2,Export,203,Czech Rep.,CZE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,132140913815,0
+H3,2010,2010,2010,0,0,2,Export,208,Denmark,DNK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,95758909643,0
+H3,2010,2010,2010,0,0,2,Export,212,Dominica,DMA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,34115972,0
+H3,2010,2010,2010,0,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4766733677,0
+H3,2010,2010,2010,0,0,2,Export,218,Ecuador,ECU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,17489921736,0
+H3,2010,2010,2010,0,0,2,Export,222,El Salvador,SLV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4499243252,0
+H3,2010,2010,2010,0,0,2,Export,231,Ethiopia,ETH,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2329792821,0
+H3,2010,2010,2010,0,0,2,Export,233,Estonia,EST,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,12811364478,0
+H3,2010,2010,2010,0,0,2,Export,242,Fiji,FJI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,841361398,0
+H3,2010,2010,2010,0,0,2,Export,246,Finland,FIN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,70116501475,0
+H3,2010,2010,2010,0,0,2,Export,251,France,FRA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,511651042741,0
+H3,2010,2010,2010,0,0,2,Export,258,French Polynesia,PYF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,153190887,0
+H3,2010,2010,2010,0,0,2,Export,268,Georgia,GEO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1583337030,0
+H3,2010,2010,2010,0,0,2,Export,270,Gambia,GMB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,34985476,0
+H3,2010,2010,2010,0,0,2,Export,275,State of Palestine,PSE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,575512917,0
+H3,2010,2010,2010,0,0,2,Export,276,Germany,DEU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1271096328740,0
+H3,2010,2010,2010,0,0,2,Export,288,Ghana,GHA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5233390055,0
+H3,2010,2010,2010,0,0,2,Export,300,Greece,GRC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,21749990420,0
+H3,2010,2010,2010,0,0,2,Export,304,Greenland,GRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,390914915,0
+H3,2010,2010,2010,0,0,2,Export,320,Guatemala,GTM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8460152695,0
+H3,2010,2010,2010,0,0,2,Export,328,Guyana,GUY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,900754248,0
+H3,2010,2010,2010,0,0,2,Export,340,Honduras,HND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3103682949,0
+H3,2010,2010,2010,0,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,400692015208,0
+H3,2010,2010,2010,0,0,2,Export,348,Hungary,HUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,94748737000,0
+H3,2010,2010,2010,0,0,2,Export,352,Iceland,ISL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4603089478,0
+H3,2010,2010,2010,0,0,2,Export,360,Indonesia,IDN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,157779103470,0
+H3,2010,2010,2010,0,0,2,Export,372,Ireland,IRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,118337540301,0
+H3,2010,2010,2010,0,0,2,Export,376,Israel,ISR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,58413028000,0
+H3,2010,2010,2010,0,0,2,Export,381,Italy,ITA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,446839829715,0
+H3,2010,2010,2010,0,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10283508506,0
+H3,2010,2010,2010,0,0,2,Export,388,Jamaica,JAM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1327601926,0
+H3,2010,2010,2010,0,0,2,Export,392,Japan,JPN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,769773832480,0
+H3,2010,2010,2010,0,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,57244063938,0
+H3,2010,2010,2010,0,0,2,Export,400,Jordan,JOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7023137455,0
+H3,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5169111916,0
+H3,2010,2010,2010,0,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,466380619660,0
+H3,2010,2010,2010,0,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1488400507,0
+H3,2010,2010,2010,0,0,2,Export,422,Lebanon,LBN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4254184915,0
+H3,2010,2010,2010,0,0,2,Export,428,Latvia,LVA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8850801231,0
+H3,2010,2010,2010,0,0,2,Export,440,Lithuania,LTU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,20813922632,0
+H3,2010,2010,2010,0,0,2,Export,442,Luxembourg,LUX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,13911259203,0
+H3,2010,2010,2010,0,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,869752702,0
+H3,2010,2010,2010,0,0,2,Export,450,Madagascar,MDG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1082167741,0
+H3,2010,2010,2010,0,0,2,Export,454,Malawi,MWI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1066203666,0
+H3,2010,2010,2010,0,0,2,Export,458,Malaysia,MYS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,198790690678,0
+H3,2010,2010,2010,0,0,2,Export,462,Maldives,MDV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,74202946,0
+H3,2010,2010,2010,0,0,2,Export,466,Mali,MLI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1996261290,0
+H3,2010,2010,2010,0,0,2,Export,470,Malta,MLT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3716753993,0
+H3,2010,2010,2010,0,0,2,Export,480,Mauritius,MUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1849522324,0
+H3,2010,2010,2010,0,0,2,Export,484,Mexico,MEX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,298305075136,0
+H3,2010,2010,2010,0,0,2,Export,490,"Other Asia, nes",,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,273705866278,0
+H3,2010,2010,2010,0,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1541486761,0
+H3,2010,2010,2010,0,0,2,Export,499,Montenegro,MNE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,436575412,0
+H3,2010,2010,2010,0,0,2,Export,516,Namibia,NAM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5848291950,0
+H3,2010,2010,2010,0,0,2,Export,524,Nepal,NPL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,874201149,0
+H3,2010,2010,2010,0,0,2,Export,528,Netherlands,NLD,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,492645871626,0
+H3,2010,2010,2010,0,0,2,Export,533,Aruba,ABW,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,124523218,0
+H3,2010,2010,2010,0,0,2,Export,540,New Caledonia,NCL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1267587872,0
+H3,2010,2010,2010,0,0,2,Export,554,New Zealand,NZL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,30931877693,0
+H3,2010,2010,2010,0,0,2,Export,558,Nicaragua,NIC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1847628973,0
+H3,2010,2010,2010,0,0,2,Export,562,Niger,NER,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,483502133,0
+H3,2010,2010,2010,0,0,2,Export,566,Nigeria,NGA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,86567912529,0
+H3,2010,2010,2010,0,0,2,Export,579,Norway,NOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,130656792431,0
+H3,2010,2010,2010,0,0,2,Export,586,Pakistan,PAK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,21413102681,0
+H3,2010,2010,2010,0,0,2,Export,591,Panama,PAN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10986602587,0
+H3,2010,2010,2010,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6504798169,0
+H3,2010,2010,2010,0,0,2,Export,604,Peru,PER,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,35205067795,0
+H3,2010,2010,2010,0,0,2,Export,616,Poland,POL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,157064948463,0
+H3,2010,2010,2010,0,0,2,Export,620,Portugal,PRT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,48743551855,0
+H3,2010,2010,2010,0,0,2,Export,642,Romania,ROU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,49413386103,0
+H3,2010,2010,2010,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,397067520996,0
+H3,2010,2010,2010,0,0,2,Export,646,Rwanda,RWA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,237815232,0
+H3,2010,2010,2010,0,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,32013187,0
+H3,2010,2010,2010,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,41515805,0
+H3,2010,2010,2010,0,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,251143033395,0
+H3,2010,2010,2010,0,0,2,Export,686,Senegal,SEN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2161127661,0
+H3,2010,2010,2010,0,0,2,Export,688,Serbia,SRB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9794515799,0
+H3,2010,2010,2010,0,0,2,Export,699,India,IND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,220408495991,0
+H3,2010,2010,2010,0,0,2,Export,702,Singapore,SGP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,351867167059,0
+H3,2010,2010,2010,0,0,2,Export,703,Slovakia,SVK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,63998612526,0
+H3,2010,2010,2010,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,72236665000,0
+H3,2010,2010,2010,0,0,2,Export,705,Slovenia,SVN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,24434752222,0
+H3,2010,2010,2010,0,0,2,Export,710,South Africa,ZAF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,71484309309,0
+H3,2010,2010,2010,0,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3199231156,0
+H3,2010,2010,2010,0,0,2,Export,724,Spain,ESP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,246265330443,0
+H3,2010,2010,2010,0,0,2,Export,736,Fmr Sudan,SDN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11529254971,0
+H3,2010,2010,2010,0,0,2,Export,740,Suriname,SUR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2025566568,0
+H3,2010,2010,2010,0,0,2,Export,752,Sweden,SWE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,158410621989,0
+H3,2010,2010,2010,0,0,2,Export,757,Switzerland,CHE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,195609280170,0
+H3,2010,2010,2010,0,0,2,Export,760,Syria,SYR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11352923632,0
+H3,2010,2010,2010,0,0,2,Export,764,Thailand,THA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,195311520256,0
+H3,2010,2010,2010,0,0,2,Export,768,Togo,TGO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,667221564,0
+H3,2010,2010,2010,0,0,2,Export,776,Tonga,TON,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8257026,0
+H3,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10981679472,0
+H3,2010,2010,2010,0,0,2,Export,788,Tunisia,TUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,16426570438,0
+H3,2010,2010,2010,0,0,2,Export,792,Turkey,TUR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,113979451826,0
+H3,2010,2010,2010,0,0,2,Export,800,Uganda,UGA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1618603260,0
+H3,2010,2010,2010,0,0,2,Export,807,TFYR of Macedonia,MKD,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3351429481,0
+H3,2010,2010,2010,0,0,2,Export,818,Egypt,EGY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,26331836029,0
+H3,2010,2010,2010,0,0,2,Export,826,United Kingdom,GBR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,422014118473,0
+H3,2010,2010,2010,0,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4050546445,0
+H3,2010,2010,2010,0,0,2,Export,842,USA,USA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1277109161855,0
+H3,2010,2010,2010,0,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1288133624,0
+H3,2010,2010,2010,0,0,2,Export,858,Uruguay,URY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6724161707,0
+H3,2010,2010,2010,0,0,2,Export,882,Samoa,WSM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,70249889,0
+H3,2010,2010,2010,0,0,2,Export,887,Yemen,YEM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6437477010,0
+H3,2010,2010,2010,0,0,2,Export,894,Zambia,ZMB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7200267057,0
+H3,2011,2011,2011,0,0,2,Export,8,Albania,ALB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1948207305,0
+H3,2011,2011,2011,0,0,2,Export,12,Algeria,DZA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,73436306091,0
+H3,2011,2011,2011,0,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,26480188838,0
+H3,2011,2011,2011,0,0,2,Export,32,Argentina,ARG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,84051150920,0
+H3,2011,2011,2011,0,0,2,Export,36,Australia,AUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,269423385464,0
+H3,2011,2011,2011,0,0,2,Export,40,Austria,AUT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,169511432541,0
+H3,2011,2011,2011,0,0,2,Export,44,Bahamas,BHS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,726943076,0
+H3,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,22561916650,0
+H3,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,24313744243,0
+H3,2011,2011,2011,0,0,2,Export,51,Armenia,ARM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1320411381,0
+H3,2011,2011,2011,0,0,2,Export,56,Belgium,BEL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,475957504390,0
+H3,2011,2011,2011,0,0,2,Export,64,Bhutan,BTN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,452962797,0
+H3,2011,2011,2011,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9144424313,0
+H3,2011,2011,2011,0,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5850078709,0
+H3,2011,2011,2011,0,0,2,Export,76,Brazil,BRA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,256038702056,0
+H3,2011,2011,2011,0,0,2,Export,84,Belize,BLZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,396184784,0
+H3,2011,2011,2011,0,0,2,Export,100,Bulgaria,BGR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,28165219747,0
+H3,2011,2011,2011,0,0,2,Export,112,Belarus,BLR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,41418672000,0
+H3,2011,2011,2011,0,0,2,Export,116,Cambodia,KHM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6704136957,0
+H3,2011,2011,2011,0,0,2,Export,124,Canada,CAN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,450430007647,0
+H3,2011,2011,2011,0,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,68892512,0
+H3,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,103936772,0
+H3,2011,2011,2011,0,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10011281529,0
+H3,2011,2011,2011,0,0,2,Export,152,Chile,CHL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,81454990026,0
+H3,2011,2011,2011,0,0,2,Export,156,China,CHN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1898388434783,0
+H3,2011,2011,2011,0,0,2,Export,170,Colombia,COL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,56953516086,0
+H3,2011,2011,2011,0,0,2,Export,188,Costa Rica,CRI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10222241025,0
+H3,2011,2011,2011,0,0,2,Export,191,Croatia,HRV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,13364022440,0
+H3,2011,2011,2011,0,0,2,Export,196,Cyprus,CYP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1954770383,0
+H3,2011,2011,2011,0,0,2,Export,203,Czech Rep.,CZE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,162391721227,0
+H3,2011,2011,2011,0,0,2,Export,208,Denmark,DNK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,111902280713,0
+H3,2011,2011,2011,0,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6112524200,0
+H3,2011,2011,2011,0,0,2,Export,218,Ecuador,ECU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,22342523911,0
+H3,2011,2011,2011,0,0,2,Export,222,El Salvador,SLV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5308179072,0
+H3,2011,2011,2011,0,0,2,Export,231,Ethiopia,ETH,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2614891726,0
+H3,2011,2011,2011,0,0,2,Export,233,Estonia,EST,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,18139131426,0
+H3,2011,2011,2011,0,0,2,Export,242,Fiji,FJI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1069470694,0
+H3,2011,2011,2011,0,0,2,Export,246,Finland,FIN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,78794218004,0
+H3,2011,2011,2011,0,0,2,Export,251,France,FRA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,581541871200,0
+H3,2011,2011,2011,0,0,2,Export,258,French Polynesia,PYF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,149817861,0
+H3,2011,2011,2011,0,0,2,Export,268,Georgia,GEO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2189122029,0
+H3,2011,2011,2011,0,0,2,Export,270,Gambia,GMB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,94731103,0
+H3,2011,2011,2011,0,0,2,Export,275,State of Palestine,PSE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,719588970,0
+H3,2011,2011,2011,0,0,2,Export,276,Germany,DEU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1482202274324,0
+H3,2011,2011,2011,0,0,2,Export,288,Ghana,GHA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,18400571593,0
+H3,2011,2011,2011,0,0,2,Export,300,Greece,GRC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,31711069888,0
+H3,2011,2011,2011,0,0,2,Export,304,Greenland,GRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,473654896,0
+H3,2011,2011,2011,0,0,2,Export,320,Guatemala,GTM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10161041018,0
+H3,2011,2011,2011,0,0,2,Export,328,Guyana,GUY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1048656233,0
+H3,2011,2011,2011,0,0,2,Export,340,Honduras,HND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3533561031,0
+H3,2011,2011,2011,0,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,455573380134,0
+H3,2011,2011,2011,0,0,2,Export,348,Hungary,HUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,111216834000,0
+H3,2011,2011,2011,0,0,2,Export,352,Iceland,ISL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5348791180,0
+H3,2011,2011,2011,0,0,2,Export,360,Indonesia,IDN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,203496619185,0
+H3,2011,2011,2011,0,0,2,Export,364,Iran,IRN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,130543999999,0
+H3,2011,2011,2011,0,0,2,Export,372,Ireland,IRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,127004051215,0
+H3,2011,2011,2011,0,0,2,Export,376,Israel,ISR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,67796328000,0
+H3,2011,2011,2011,0,0,2,Export,381,Italy,ITA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,523256296222,0
+H3,2011,2011,2011,0,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11049062530,0
+H3,2011,2011,2011,0,0,2,Export,388,Jamaica,JAM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1622859783,0
+H3,2011,2011,2011,0,0,2,Export,392,Japan,JPN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,823183758647,0
+H3,2011,2011,2011,0,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,88107933672,0
+H3,2011,2011,2011,0,0,2,Export,400,Jordan,JOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7963486078,0
+H3,2011,2011,2011,0,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,555208897965,0
+H3,2011,2011,2011,0,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1978932373,0
+H3,2011,2011,2011,0,0,2,Export,422,Lebanon,LBN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4266856015,0
+H3,2011,2011,2011,0,0,2,Export,428,Latvia,LVA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11988196196,0
+H3,2011,2011,2011,0,0,2,Export,440,Lithuania,LTU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,28068648237,0
+H3,2011,2011,2011,0,0,2,Export,442,Luxembourg,LUX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,16307879411,0
+H3,2011,2011,2011,0,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,869951611,0
+H3,2011,2011,2011,0,0,2,Export,450,Madagascar,MDG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1471523549,0
+H3,2011,2011,2011,0,0,2,Export,454,Malawi,MWI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1425289318,0
+H3,2011,2011,2011,0,0,2,Export,458,Malaysia,MYS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,226992681985,0
+H3,2011,2011,2011,0,0,2,Export,462,Maldives,MDV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,83278714,0
+H3,2011,2011,2011,0,0,2,Export,466,Mali,MLI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2374496601,0
+H3,2011,2011,2011,0,0,2,Export,470,Malta,MLT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5278693591,0
+H3,2011,2011,2011,0,0,2,Export,478,Mauritania,MRT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2457998771,0
+H3,2011,2011,2011,0,0,2,Export,480,Mauritius,MUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2255420859,0
+H3,2011,2011,2011,0,0,2,Export,484,Mexico,MEX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,349569049433,0
+H3,2011,2011,2011,0,0,2,Export,490,"Other Asia, nes",,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,306997986072,0
+H3,2011,2011,2011,0,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2216814952,0
+H3,2011,2011,2011,0,0,2,Export,499,Montenegro,MNE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,627531806,0
+H3,2011,2011,2011,0,0,2,Export,516,Namibia,NAM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5900940853,0
+H3,2011,2011,2011,0,0,2,Export,524,Nepal,NPL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,907633694,0
+H3,2011,2011,2011,0,0,2,Export,528,Netherlands,NLD,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,530575758686,0
+H3,2011,2011,2011,0,0,2,Export,533,Aruba,ABW,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,151359633,0
+H3,2011,2011,2011,0,0,2,Export,540,New Caledonia,NCL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1657544479,0
+H3,2011,2011,2011,0,0,2,Export,554,New Zealand,NZL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,37633150935,0
+H3,2011,2011,2011,0,0,2,Export,558,Nicaragua,NIC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2280871939,0
+H3,2011,2011,2011,0,0,2,Export,562,Niger,NER,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1080650285,0
+H3,2011,2011,2011,0,0,2,Export,566,Nigeria,NGA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,125641031180,0
+H3,2011,2011,2011,0,0,2,Export,579,Norway,NOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,160409821472,0
+H3,2011,2011,2011,0,0,2,Export,586,Pakistan,PAK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,25343768655,0
+H3,2011,2011,2011,0,0,2,Export,591,Panama,PAN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,14554815811,0
+H3,2011,2011,2011,0,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5499319521,0
+H3,2011,2011,2011,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7763529607,0
+H3,2011,2011,2011,0,0,2,Export,604,Peru,PER,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,45636085458,0
+H3,2011,2011,2011,0,0,2,Export,616,Poland,POL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,188105090147,0
+H3,2011,2011,2011,0,0,2,Export,620,Portugal,PRT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,58932194960,0
+H3,2011,2011,2011,0,0,2,Export,634,Qatar,QAT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,114298483158,0
+H3,2011,2011,2011,0,0,2,Export,642,Romania,ROU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,62692001406,0
+H3,2011,2011,2011,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,516992618221,0
+H3,2011,2011,2011,0,0,2,Export,646,Rwanda,RWA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,417342133,0
+H3,2011,2011,2011,0,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,44886028,0
+H3,2011,2011,2011,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,38431984,0
+H3,2011,2011,2011,0,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11041542,0
+H3,2011,2011,2011,0,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,364697696938,0
+H3,2011,2011,2011,0,0,2,Export,686,Senegal,SEN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2541704770,0
+H3,2011,2011,2011,0,0,2,Export,688,Serbia,SRB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11779477582,0
+H3,2011,2011,2011,0,0,2,Export,699,India,IND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,301483250168,0
+H3,2011,2011,2011,0,0,2,Export,702,Singapore,SGP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,409503630545,0
+H3,2011,2011,2011,0,0,2,Export,703,Slovakia,SVK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,78487242562,0
+H3,2011,2011,2011,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,96905673959,0
+H3,2011,2011,2011,0,0,2,Export,705,Slovenia,SVN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,28984136412,0
+H3,2011,2011,2011,0,0,2,Export,710,South Africa,ZAF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,92975612949,0
+H3,2011,2011,2011,0,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3512125476,0
+H3,2011,2011,2011,0,0,2,Export,724,Spain,ESP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,298170964481,0
+H3,2011,2011,2011,0,0,2,Export,736,Fmr Sudan,SDN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8981722935,0
+H3,2011,2011,2011,0,0,2,Export,740,Suriname,SUR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2466871927,0
+H3,2011,2011,2011,0,0,2,Export,752,Sweden,SWE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,186898110097,0
+H3,2011,2011,2011,0,0,2,Export,757,Switzerland,CHE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,234819262335,0
+H3,2011,2011,2011,0,0,2,Export,764,Thailand,THA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,228823972691,0
+H3,2011,2011,2011,0,0,2,Export,768,Togo,TGO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,865542769,0
+H3,2011,2011,2011,0,0,2,Export,776,Tonga,TON,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,14392039,0
+H3,2011,2011,2011,0,0,2,Export,788,Tunisia,TUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,17846964540,0
+H3,2011,2011,2011,0,0,2,Export,792,Turkey,TUR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,134915251953,0
+H3,2011,2011,2011,0,0,2,Export,796,Turks and Caicos Isds,TCA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8532611,0
+H3,2011,2011,2011,0,0,2,Export,800,Uganda,UGA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2159077318,0
+H3,2011,2011,2011,0,0,2,Export,804,Ukraine,UKR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,68393034211,0
+H3,2011,2011,2011,0,0,2,Export,807,TFYR of Macedonia,MKD,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4455374545,0
+H3,2011,2011,2011,0,0,2,Export,818,Egypt,EGY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,31582438765,0
+H3,2011,2011,2011,0,0,2,Export,826,United Kingdom,GBR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,517288693419,0
+H3,2011,2011,2011,0,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4734959519,0
+H3,2011,2011,2011,0,0,2,Export,842,USA,USA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1479730168892,0
+H3,2011,2011,2011,0,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2312411713,0
+H3,2011,2011,2011,0,0,2,Export,858,Uruguay,URY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7911749310,0
+H3,2011,2011,2011,0,0,2,Export,882,Samoa,WSM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,66263848,0
+H3,2011,2011,2011,0,0,2,Export,887,Yemen,YEM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6947667409,0
+H3,2011,2011,2011,0,0,2,Export,894,Zambia,ZMB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9000946031,0
+H3,2012,2012,2012,0,0,2,Export,44,Bahamas,BHS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,828692195,0
+H3,2012,2012,2012,0,0,2,Export,51,Armenia,ARM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1428120692,0
+H3,2012,2012,2012,0,0,2,Export,84,Belize,BLZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,340448667,0
+H3,2012,2012,2012,0,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,13000827762,0
+H3,2012,2012,2012,0,0,2,Export,116,Cambodia,KHM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7838101201,0
+H3,2012,2012,2012,0,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,55773146,0
+H3,2012,2012,2012,0,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9369784036,0
+H3,2012,2012,2012,0,0,2,Export,212,Dominica,DMA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,37013221,0
+H3,2012,2012,2012,0,0,2,Export,218,Ecuador,ECU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,23852016735,0
+H3,2012,2012,2012,0,0,2,Export,231,Ethiopia,ETH,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2891346548,0
+H3,2012,2012,2012,0,0,2,Export,275,State of Palestine,PSE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,782368754,0
+H3,2012,2012,2012,0,0,2,Export,288,Ghana,GHA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,18761239230,0
+H3,2012,2012,2012,0,0,2,Export,328,Guyana,GUY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1045337407,0
+H3,2012,2012,2012,0,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10860995103,0
+H3,2012,2012,2012,0,0,2,Export,388,Jamaica,JAM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1711790055,0
+H3,2012,2012,2012,0,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1683236842,0
+H3,2012,2012,2012,0,0,2,Export,458,Malaysia,MYS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,227449499544,0
+H3,2012,2012,2012,0,0,2,Export,466,Mali,MLI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2610386505,0
+H3,2012,2012,2012,0,0,2,Export,478,Mauritania,MRT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2623807385,0
+H3,2012,2012,2012,0,0,2,Export,490,"Other Asia, nes",,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,300621665704,0
+H3,2012,2012,2012,0,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2161879421,0
+H3,2012,2012,2012,0,0,2,Export,500,Montserrat,MSR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1790740,0
+H3,2012,2012,2012,0,0,2,Export,508,Mozambique,MOZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3469851707,0
+H3,2012,2012,2012,0,0,2,Export,533,Aruba,ABW,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,173060835,0
+H3,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1292925497,0
+H3,2012,2012,2012,0,0,2,Export,562,Niger,NER,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1306748264,0
+H3,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,143151182808,0
+H3,2012,2012,2012,0,0,2,Export,646,Rwanda,RWA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,505743450,0
+H3,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,43042465,0
+H3,2012,2012,2012,0,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6047150,0
+H3,2012,2012,2012,0,0,2,Export,686,Senegal,SEN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2531665004,0
+H3,2012,2012,2012,0,0,2,Export,699,India,IND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,289564769447,0
+H3,2012,2012,2012,0,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3882429092,0
+H3,2012,2012,2012,0,0,2,Export,768,Togo,TGO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,900406590,0
+H3,2012,2012,2012,0,0,2,Export,776,Tonga,TON,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,15583106,0
+H3,2012,2012,2012,0,0,2,Export,796,Turks and Caicos Isds,TCA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11830262,0
+H3,2012,2012,2012,0,0,2,Export,804,Ukraine,UKR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,68694495448,0
+H3,2012,2012,2012,0,0,2,Export,818,Egypt,EGY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,29417005557,0
+H3,2012,2012,2012,0,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5547229200,0
+H3,2013,2013,2013,0,0,2,Export,328,Guyana,GUY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1074132699,0
+H3,2013,2013,2013,0,0,2,Export,454,Malawi,MWI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1207984154,0
+H3,2013,2013,2013,0,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2399028237,0
+H3,2013,2013,2013,0,0,2,Export,500,Montserrat,MSR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5961690,0
+H3,2013,2013,2013,0,0,2,Export,508,Mozambique,MOZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4023718958,0
+H3,2013,2013,2013,0,0,2,Export,562,Niger,NER,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1337151358,0
+H3,2013,2013,2013,0,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6938258,0
+H3,2013,2013,2013,0,0,2,Export,768,Togo,TGO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1002253138,0
+H3,2013,2013,2013,0,0,2,Export,804,Ukraine,UKR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,63320468792,0
+H3,2013,2013,2013,0,0,2,Export,818,Egypt,EGY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,28779409063,0
+H2,2009,2009,2009,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,403441006,0
+H2,2009,2009,2009,0,0,2,Export,52,Barbados,BRB,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,322725399,0
+H2,2009,2009,2009,0,0,2,Export,72,Botswana,BWA,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,3455712288,0
+H2,2009,2009,2009,0,0,2,Export,84,Belize,BLZ,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,249659895,0
+H2,2009,2009,2009,0,0,2,Export,108,Burundi,BDI,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,112931709,0
+H2,2009,2009,2009,0,0,2,Export,120,Cameroon,CMR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,1732408223,0
+H2,2009,2009,2009,0,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,80531817,0
+H2,2009,2009,2009,0,0,2,Export,174,Comoros,COM,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,12587676,0
+H2,2009,2009,2009,0,0,2,Export,178,Congo,COG,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,8201529531,0
+H2,2009,2009,2009,0,0,2,Export,204,Benin,BEN,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,425347736,0
+H2,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,5355977813,0
+H2,2009,2009,2009,0,0,2,Export,288,Ghana,GHA,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,5070533314,0
+H2,2009,2009,2009,0,0,2,Export,296,Kiribati,KIR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,6275811,0
+H2,2009,2009,2009,0,0,2,Export,414,Kuwait,KWT,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,51936562953,0
+H2,2009,2009,2009,0,0,2,Export,434,Libya,LBY,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,27255515045,0
+H2,2009,2009,2009,0,0,2,Export,500,Montserrat,MSR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,3148450,0
+H2,2009,2009,2009,0,0,2,Export,504,Morocco,MAR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,14068939729,0
+H2,2009,2009,2009,0,0,2,Export,508,Mozambique,MOZ,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,2147169453,0
+H2,2009,2009,2009,0,0,2,Export,512,Oman,OMN,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,27650631071,0
+H2,2009,2009,2009,0,0,2,Export,548,Vanuatu,VUT,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,37745611,0
+H2,2009,2009,2009,0,0,2,Export,608,Philippines,PHL,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,38435801947,0
+H2,2009,2009,2009,0,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,174725000000,0
+H2,2009,2009,2009,0,0,2,Export,796,Turks and Caicos Isds,TCA,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,20757912,0
+H2,2009,2009,2009,0,0,2,Export,804,Ukraine,UKR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,39695647589,0
+H2,2009,2009,2009,0,0,2,Export,862,Venezuela,VEN,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,56583100316,0
+H2,2010,2010,2010,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,388483635,0
+H2,2010,2010,2010,0,0,2,Export,52,Barbados,BRB,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,313684474,0
+H2,2010,2010,2010,0,0,2,Export,72,Botswana,BWA,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,4693238100,0
+H2,2010,2010,2010,0,0,2,Export,120,Cameroon,CMR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,3878432844,0
+H2,2010,2010,2010,0,0,2,Export,178,Congo,COG,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,6917584947,0
+H2,2010,2010,2010,0,0,2,Export,204,Benin,BEN,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,434473748,0
+H2,2010,2010,2010,0,0,2,Export,296,Kiribati,KIR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,3893963,0
+H2,2010,2010,2010,0,0,2,Export,364,Iran,IRN,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,83785000000,0
+H2,2010,2010,2010,0,0,2,Export,434,Libya,LBY,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,36440413733,0
+H2,2010,2010,2010,0,0,2,Export,478,Mauritania,MRT,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,725370083,0
+H2,2010,2010,2010,0,0,2,Export,500,Montserrat,MSR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,1099108,0
+H2,2010,2010,2010,0,0,2,Export,504,Morocco,MAR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,17764791264,0
+H2,2010,2010,2010,0,0,2,Export,508,Mozambique,MOZ,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,2243068881,0
+H2,2010,2010,2010,0,0,2,Export,512,Oman,OMN,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,36599577120,0
+H2,2010,2010,2010,0,0,2,Export,548,Vanuatu,VUT,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,46174039,0
+H2,2010,2010,2010,0,0,2,Export,608,Philippines,PHL,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,51497514607,0
+H2,2010,2010,2010,0,0,2,Export,634,Qatar,QAT,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,74810223382,0
+H2,2010,2010,2010,0,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,198362000000,0
+H2,2010,2010,2010,0,0,2,Export,804,Ukraine,UKR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,51430285576,0
+H2,2010,2010,2010,0,0,2,Export,862,Venezuela,VEN,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,66962672650,0
+H2,2011,2011,2011,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,375850935,0
+H2,2011,2011,2011,0,0,2,Export,52,Barbados,BRB,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,508446402,0
+H2,2011,2011,2011,0,0,2,Export,72,Botswana,BWA,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,5881918175,0
+H2,2011,2011,2011,0,0,2,Export,108,Burundi,BDI,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,197835657,0
+H2,2011,2011,2011,0,0,2,Export,120,Cameroon,CMR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,2147386038,0
+H2,2011,2011,2011,0,0,2,Export,296,Kiribati,KIR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,8597627,0
+H2,2011,2011,2011,0,0,2,Export,504,Morocco,MAR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,21649934076,0
+H2,2011,2011,2011,0,0,2,Export,508,Mozambique,MOZ,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,3604118000,0
+H2,2011,2011,2011,0,0,2,Export,512,Oman,OMN,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,47091872608,0
+H2,2011,2011,2011,0,0,2,Export,548,Vanuatu,VUT,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,63531915,0
+H2,2011,2011,2011,0,0,2,Export,608,Philippines,PHL,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,48042128759,0
+H2,2011,2011,2011,0,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,252556000000,0
+H2,2011,2011,2011,0,0,2,Export,862,Venezuela,VEN,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,91338260333,0
+H2,2012,2012,2012,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,428902710,0
+H2,2012,2012,2012,0,0,2,Export,52,Barbados,BRB,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,566438951,0
+H2,2012,2012,2012,0,0,2,Export,72,Botswana,BWA,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,5971245090,0
+H2,2012,2012,2012,0,0,2,Export,108,Burundi,BDI,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,242699757,0
+H2,2012,2012,2012,0,0,2,Export,120,Cameroon,CMR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,4274981263,0
+H2,2012,2012,2012,0,0,2,Export,296,Kiribati,KIR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,5815501,0
+H2,2012,2012,2012,0,0,2,Export,504,Morocco,MAR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,21417184362,0
+H2,2012,2012,2012,0,0,2,Export,585,Palau,PLW,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,8999371,0
+H2,2012,2012,2012,0,0,2,Export,608,Philippines,PHL,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,51995223994,0
+H2,2012,2012,2012,0,0,2,Export,634,Qatar,QAT,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,133717000000,0
+H2,2013,2013,2013,0,0,2,Export,52,Barbados,BRB,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,467423520,0
+H2,2013,2013,2013,0,0,2,Export,608,Philippines,PHL,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,53978267908,0
+H1,2009,2009,2009,0,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,205701562,0
+H1,2009,2009,2009,0,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,127108141,0
+H1,2009,2009,2009,0,0,2,Export,270,Gambia,GMB,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,66025606,0
+H1,2009,2009,2009,0,0,2,Export,360,Indonesia,IDN,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,116509991781,0
+H1,2009,2009,2009,0,0,2,Export,426,Lesotho,LSO,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,628127619,0
+H1,2009,2009,2009,0,0,2,Export,478,Mauritania,MRT,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,1164529506,0
+H1,2009,2009,2009,0,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,8116665,0
+H1,2009,2009,2009,0,0,2,Export,740,Suriname,SUR,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,1401838557,0
+H1,2010,2010,2010,0,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,34828290,0
+H1,2010,2010,2010,0,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,218349419,0
+H1,2010,2010,2010,0,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,6381277,0
+H1,2011,2011,2011,0,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,29028024,0
+H1,2011,2011,2011,0,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,417424969,0
+H1,2012,2012,2012,0,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,29006273,0
+H1,2012,2012,2012,0,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,491677002,0
+H0,2009,2009,2009,0,0,2,Export,184,Cook Isds,COK,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,2746920,0
+H0,2010,2010,2010,0,0,2,Export,184,Cook Isds,COK,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,5162836,0
+H0,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,0,World,WLD,TOTAL,ALL COMMODITIES,1,No Quantity,,,3124692,0

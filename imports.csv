@@ -34,7 +34,7 @@ H4,2012,2012,2012,0,0,1,Import,300,Greece,GRC,0,World,WLD,TOTAL,All Commodities,
 H4,2012,2012,2012,0,0,1,Import,304,Greenland,GRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,855950044,0
 H4,2012,2012,2012,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,16978685968,0
 H4,2012,2012,2012,0,0,1,Import,340,Honduras,HND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8646619253,0
-H4,2012,2012,2012,0,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,553486468741,0
+H4,2012,2012,2012,0,0,1,Import,344,China, Hong Kong SAR,HKG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,553486468741,0
 H4,2012,2012,2012,0,0,1,Import,348,Hungary,HUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,94266239000,0
 H4,2012,2012,2012,0,0,1,Import,352,Iceland,ISL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4771916219,0
 H4,2012,2012,2012,0,0,1,Import,360,Indonesia,IDN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,191690908079,0
@@ -49,7 +49,7 @@ H4,2012,2012,2012,0,0,1,Import,422,Lebanon,LBN,0,World,WLD,TOTAL,All Commodities
 H4,2012,2012,2012,0,0,1,Import,428,Latvia,LVA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,16082387658,0
 H4,2012,2012,2012,0,0,1,Import,440,Lithuania,LTU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,32237640017,0
 H4,2012,2012,2012,0,0,1,Import,442,Luxembourg,LUX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,24223310579,0
-H4,2012,2012,2012,0,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8982053067,0
+H4,2012,2012,2012,0,0,1,Import,446,China, Macao SAR,MAC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8982053067,0
 H4,2012,2012,2012,0,0,1,Import,450,Madagascar,MDG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2658986872,0
 H4,2012,2012,2012,0,0,1,Import,462,Maldives,MDV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1554501652,0
 H4,2012,2012,2012,0,0,1,Import,470,Malta,MLT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7896220752,0
@@ -222,7 +222,7 @@ H3,2009,2009,2009,0,0,1,Import,304,Greenland,GRL,0,World,WLD,TOTAL,All Commoditi
 H3,2009,2009,2009,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11521363090,0
 H3,2009,2009,2009,0,0,1,Import,328,Guyana,GUY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1175348589,0
 H3,2009,2009,2009,0,0,1,Import,340,Honduras,HND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5953529371,0
-H3,2009,2009,2009,0,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,352240745198,0
+H3,2009,2009,2009,0,0,1,Import,344,China, Hong Kong SAR,HKG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,352240745198,0
 H3,2009,2009,2009,0,0,1,Import,348,Hungary,HUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,77272443000,0
 H3,2009,2009,2009,0,0,1,Import,352,Iceland,ISL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3603988709,0
 H3,2009,2009,2009,0,0,1,Import,372,Ireland,IRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,62566426399,0
@@ -240,7 +240,7 @@ H3,2009,2009,2009,0,0,1,Import,422,Lebanon,LBN,0,World,WLD,TOTAL,All Commodities
 H3,2009,2009,2009,0,0,1,Import,428,Latvia,LVA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,9336920239,0
 H3,2009,2009,2009,0,0,1,Import,440,Lithuania,LTU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,18340632911,0
 H3,2009,2009,2009,0,0,1,Import,442,Luxembourg,LUX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,18770617979,0
-H3,2009,2009,2009,0,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4750943462,0
+H3,2009,2009,2009,0,0,1,Import,446,China, Macao SAR,MAC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4750943462,0
 H3,2009,2009,2009,0,0,1,Import,450,Madagascar,MDG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3159330780,0
 H3,2009,2009,2009,0,0,1,Import,454,Malawi,MWI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2021672009,0
 H3,2009,2009,2009,0,0,1,Import,458,Malaysia,MYS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,123575279300,0
@@ -248,7 +248,7 @@ H3,2009,2009,2009,0,0,1,Import,462,Maldives,MDV,0,World,WLD,TOTAL,All Commoditie
 H3,2009,2009,2009,0,0,1,Import,470,Malta,MLT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4034116625,0
 H3,2009,2009,2009,0,0,1,Import,480,Mauritius,MUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3725099040,0
 H3,2009,2009,2009,0,0,1,Import,484,Mexico,MEX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,234384531886,0
-H3,2009,2009,2009,0,0,1,Import,490,"Other Asia, nes",,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,174942558826,0
+H3,2009,2009,2009,0,0,1,Import,490,Other Asia, nes,,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,174942558826,0
 H3,2009,2009,2009,0,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3278270205,0
 H3,2009,2009,2009,0,0,1,Import,499,Montenegro,MNE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2313139288,0
 H3,2009,2009,2009,0,0,1,Import,516,Namibia,NAM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6208418827,0
@@ -357,7 +357,7 @@ H3,2010,2010,2010,0,0,1,Import,304,Greenland,GRL,0,World,WLD,TOTAL,All Commoditi
 H3,2010,2010,2010,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,13830314124,0
 H3,2010,2010,2010,0,0,1,Import,328,Guyana,GUY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1451561694,0
 H3,2010,2010,2010,0,0,1,Import,340,Honduras,HND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6895088284,0
-H3,2010,2010,2010,0,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,441369197518,0
+H3,2010,2010,2010,0,0,1,Import,344,China, Hong Kong SAR,HKG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,441369197518,0
 H3,2010,2010,2010,0,0,1,Import,348,Hungary,HUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,87432095000,0
 H3,2010,2010,2010,0,0,1,Import,352,Iceland,ISL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3914349444,0
 H3,2010,2010,2010,0,0,1,Import,360,Indonesia,IDN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,135663280214,0
@@ -376,7 +376,7 @@ H3,2010,2010,2010,0,0,1,Import,422,Lebanon,LBN,0,World,WLD,TOTAL,All Commodities
 H3,2010,2010,2010,0,0,1,Import,428,Latvia,LVA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11143287701,0
 H3,2010,2010,2010,0,0,1,Import,440,Lithuania,LTU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,23378047393,0
 H3,2010,2010,2010,0,0,1,Import,442,Luxembourg,LUX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,20399987741,0
-H3,2010,2010,2010,0,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5629450361,0
+H3,2010,2010,2010,0,0,1,Import,446,China, Macao SAR,MAC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5629450361,0
 H3,2010,2010,2010,0,0,1,Import,450,Madagascar,MDG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2546194911,0
 H3,2010,2010,2010,0,0,1,Import,454,Malawi,MWI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2173037656,0
 H3,2010,2010,2010,0,0,1,Import,458,Malaysia,MYS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,164586273423,0
@@ -385,7 +385,7 @@ H3,2010,2010,2010,0,0,1,Import,466,Mali,MLI,0,World,WLD,TOTAL,All Commodities,1,
 H3,2010,2010,2010,0,0,1,Import,470,Malta,MLT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5732174585,0
 H3,2010,2010,2010,0,0,1,Import,480,Mauritius,MUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4402331731,0
 H3,2010,2010,2010,0,0,1,Import,484,Mexico,MEX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,301481733926,0
-H3,2010,2010,2010,0,0,1,Import,490,"Other Asia, nes",,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,251315168442,0
+H3,2010,2010,2010,0,0,1,Import,490,Other Asia, nes,,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,251315168442,0
 H3,2010,2010,2010,0,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3855288845,0
 H3,2010,2010,2010,0,0,1,Import,499,Montenegro,MNE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2181940294,0
 H3,2010,2010,2010,0,0,1,Import,516,Namibia,NAM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5979722908,0
@@ -492,7 +492,7 @@ H3,2011,2011,2011,0,0,1,Import,304,Greenland,GRL,0,World,WLD,TOTAL,All Commoditi
 H3,2011,2011,2011,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,16610813629,0
 H3,2011,2011,2011,0,0,1,Import,328,Guyana,GUY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1683949734,0
 H3,2011,2011,2011,0,0,1,Import,340,Honduras,HND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,8541778594,0
-H3,2011,2011,2011,0,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,510854737709,0
+H3,2011,2011,2011,0,0,1,Import,344,China, Hong Kong SAR,HKG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,510854737709,0
 H3,2011,2011,2011,0,0,1,Import,348,Hungary,HUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,101369997000,0
 H3,2011,2011,2011,0,0,1,Import,352,Iceland,ISL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4845760241,0
 H3,2011,2011,2011,0,0,1,Import,360,Indonesia,IDN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,177435550307,0
@@ -511,7 +511,7 @@ H3,2011,2011,2011,0,0,1,Import,422,Lebanon,LBN,0,World,WLD,TOTAL,All Commodities
 H3,2011,2011,2011,0,0,1,Import,428,Latvia,LVA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,15430778744,0
 H3,2011,2011,2011,0,0,1,Import,440,Lithuania,LTU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,31801287866,0
 H3,2011,2011,2011,0,0,1,Import,442,Luxembourg,LUX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,25971633904,0
-H3,2011,2011,2011,0,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7927691311,0
+H3,2011,2011,2011,0,0,1,Import,446,China, Macao SAR,MAC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7927691311,0
 H3,2011,2011,2011,0,0,1,Import,450,Madagascar,MDG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2957134123,0
 H3,2011,2011,2011,0,0,1,Import,454,Malawi,MWI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2427696418,0
 H3,2011,2011,2011,0,0,1,Import,458,Malaysia,MYS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,187573009395,0
@@ -521,7 +521,7 @@ H3,2011,2011,2011,0,0,1,Import,470,Malta,MLT,0,World,WLD,TOTAL,All Commodities,1
 H3,2011,2011,2011,0,0,1,Import,478,Mauritania,MRT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2452705805,0
 H3,2011,2011,2011,0,0,1,Import,480,Mauritius,MUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5158618169,0
 H3,2011,2011,2011,0,0,1,Import,484,Mexico,MEX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,350842385890,0
-H3,2011,2011,2011,0,0,1,Import,490,"Other Asia, nes",,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,281315583178,0
+H3,2011,2011,2011,0,0,1,Import,490,Other Asia, nes,,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,281315583178,0
 H3,2011,2011,2011,0,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5191271351,0
 H3,2011,2011,2011,0,0,1,Import,499,Montenegro,MNE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2544044492,0
 H3,2011,2011,2011,0,0,1,Import,500,Montserrat,MSR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,33417122,0
@@ -600,7 +600,7 @@ H3,2012,2012,2012,0,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,TOTAL,All Commodit
 H3,2012,2012,2012,0,0,1,Import,458,Malaysia,MYS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,196196618679,0
 H3,2012,2012,2012,0,0,1,Import,466,Mali,MLI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,3462655072,0
 H3,2012,2012,2012,0,0,1,Import,478,Mauritania,MRT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2970620182,0
-H3,2012,2012,2012,0,0,1,Import,490,"Other Asia, nes",,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,270863152625,0
+H3,2012,2012,2012,0,0,1,Import,490,Other Asia, nes,,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,270863152625,0
 H3,2012,2012,2012,0,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5212928364,0
 H3,2012,2012,2012,0,0,1,Import,500,Montserrat,MSR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,36941700,0
 H3,2012,2012,2012,0,0,1,Import,508,Mozambique,MOZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6177209677,0

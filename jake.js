@@ -9,14 +9,15 @@ $(document).ready(function() {
 	    var all = allText.split(/\r\n|\n/);
 	    var headings = all[0].split(',');
 	    var lines = [];
-	    for(var i = 1; i < 5; i++) {
+	    for(var i = 1; i < all.length; i++) {
 	    	var entry = all[i].split(",");
+	    	var result = Array();
 	        for (var j = 0; j < headings.length; j++) {
-	        	lines[i][headings[j]] = entry[j];
-	       		console.log(headings[j]);
+	        	result.push(entry[j])
 	        }
+	        lines.push(result);
 	    }
 	    // alert(lines);
-	    console.log(lines.length);
+	    console.log(lines);
 	    return lines;
 	}

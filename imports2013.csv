@@ -1,0 +1,81 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+H4,2013,2013,2013,0,0,1,Import,8,Albania,ALB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4880593254,0
+H4,2013,2013,2013,0,0,1,Import,12,Algeria,DZA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,54909973274,0
+H4,2013,2013,2013,0,0,1,Import,36,Australia,AUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,232481271344,0
+H4,2013,2013,2013,0,0,1,Import,51,Armenia,ARM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4256217854,0
+H4,2013,2013,2013,0,0,1,Import,56,Belgium,BEL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,488442091068,0
+H4,2013,2013,2013,0,0,1,Import,60,Bermuda,BMU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,994572258,0
+H4,2013,2013,2013,0,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10294929805,0
+H4,2013,2013,2013,0,0,1,Import,76,Brazil,BRA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,239620904905,0
+H4,2013,2013,2013,0,0,1,Import,112,Belarus,BLR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,42947570300,0
+H4,2013,2013,2013,0,0,1,Import,124,Canada,CAN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,461799508840,0
+H4,2013,2013,2013,0,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,726366551,0
+H4,2013,2013,2013,0,0,1,Import,152,Chile,CHL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,79616352757,0
+H4,2013,2013,2013,0,0,1,Import,156,China,CHN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1949992314705,0
+H4,2013,2013,2013,0,0,1,Import,170,Colombia,COL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,59381196537,0
+H4,2013,2013,2013,0,0,1,Import,188,Costa Rica,CRI,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,18126861127,0
+H4,2013,2013,2013,0,0,1,Import,191,Croatia,HRV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,20953444368,0
+H4,2013,2013,2013,0,0,1,Import,196,Cyprus,CYP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6391800340,0
+H4,2013,2013,2013,0,0,1,Import,203,Czech Rep.,CZE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,141990572739,0
+H4,2013,2013,2013,0,0,1,Import,218,Ecuador,ECU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,27064498727,0
+H4,2013,2013,2013,0,0,1,Import,222,El Salvador,SLV,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10771952672,0
+H4,2013,2013,2013,0,0,1,Import,233,Estonia,EST,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,19881514188,0
+H4,2013,2013,2013,0,0,1,Import,251,France,FRA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,668658052796,0
+H4,2013,2013,2013,0,0,1,Import,258,French Polynesia,PYF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1814846584,0
+H4,2013,2013,2013,0,0,1,Import,268,Georgia,GEO,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7873967907,0
+H4,2013,2013,2013,0,0,1,Import,276,Germany,DEU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1194482625229,0
+H4,2013,2013,2013,0,0,1,Import,288,Ghana,GHA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10018227387,0
+H4,2013,2013,2013,0,0,1,Import,300,Greece,GRC,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,61151139013,0
+H4,2013,2013,2013,0,0,1,Import,304,Greenland,GRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,822141072,0
+H4,2013,2013,2013,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,17503977537,0
+H4,2013,2013,2013,0,0,1,Import,348,Hungary,HUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,98952669940,0
+H4,2013,2013,2013,0,0,1,Import,352,Iceland,ISL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,4784090531,0
+H4,2013,2013,2013,0,0,1,Import,360,Indonesia,IDN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,186628630620,0
+H4,2013,2013,2013,0,0,1,Import,372,Ireland,IRL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,65950676021,0
+H4,2013,2013,2013,0,0,1,Import,376,Israel,ISR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,71995022000,0
+H4,2013,2013,2013,0,0,1,Import,381,Italy,ITA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,476414449114,0
+H4,2013,2013,2013,0,0,1,Import,392,Japan,JPN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,833166060724,0
+H4,2013,2013,2013,0,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,48871868575,0
+H4,2013,2013,2013,0,0,1,Import,400,Jordan,JOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,21549015741,0
+H4,2013,2013,2013,0,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,515572970448,0
+H4,2013,2013,2013,0,0,1,Import,422,Lebanon,LBN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,21234205985,0
+H4,2013,2013,2013,0,0,1,Import,428,Latvia,LVA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,16688266162,0
+H4,2013,2013,2013,0,0,1,Import,440,Lithuania,LTU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,35205425775,0
+H4,2013,2013,2013,0,0,1,Import,442,Luxembourg,LUX,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,23712295948,0
+H4,2013,2013,2013,0,0,1,Import,458,Malaysia,MYS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,206250854503,0
+H4,2013,2013,2013,0,0,1,Import,480,Mauritius,MUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5397637438,0
+H4,2013,2013,2013,0,0,1,Import,496,Mongolia,MNG,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6357821461,0
+H4,2013,2013,2013,0,0,1,Import,499,Montenegro,MNE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2348872515,0
+H4,2013,2013,2013,0,0,1,Import,516,Namibia,NAM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7574548144,0
+H4,2013,2013,2013,0,0,1,Import,554,New Zealand,NZL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,39221545077,0
+H4,2013,2013,2013,0,0,1,Import,579,Norway,NOR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,90065638048,0
+H4,2013,2013,2013,0,0,1,Import,586,Pakistan,PAK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,43775183185,0
+H4,2013,2013,2013,0,0,1,Import,591,Panama,PAN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,13024021371,0
+H4,2013,2013,2013,0,0,1,Import,600,Paraguay,PRY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,12142040429,0
+H4,2013,2013,2013,0,0,1,Import,604,Peru,PER,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,43357294760,0
+H4,2013,2013,2013,0,0,1,Import,616,Poland,POL,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,201784649430,0
+H4,2013,2013,2013,0,0,1,Import,620,Portugal,PRT,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,75203351419,0
+H4,2013,2013,2013,0,0,1,Import,642,Romania,ROU,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,73452191656,0
+H4,2013,2013,2013,0,0,1,Import,643,Russian Federation,RUS,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,314945094987,0
+H4,2013,2013,2013,0,0,1,Import,646,Rwanda,RWA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,1701434622,0
+H4,2013,2013,2013,0,0,1,Import,688,Serbia,SRB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,20543072368,0
+H4,2013,2013,2013,0,0,1,Import,699,India,IND,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,466045567333,0
+H4,2013,2013,2013,0,0,1,Import,702,Singapore,SGP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,373015739788,0
+H4,2013,2013,2013,0,0,1,Import,703,Slovakia,SVK,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,81473650163,0
+H4,2013,2013,2013,0,0,1,Import,705,Slovenia,SVN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,29485240999,0
+H4,2013,2013,2013,0,0,1,Import,710,South Africa,ZAF,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,103461277073,0
+H4,2013,2013,2013,0,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,7704177972,0
+H4,2013,2013,2013,0,0,1,Import,724,Spain,ESP,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,332266845875,0
+H4,2013,2013,2013,0,0,1,Import,752,Sweden,SWE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,159648449947,0
+H4,2013,2013,2013,0,0,1,Import,757,Switzerland,CHE,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,200933948395,0
+H4,2013,2013,2013,0,0,1,Import,764,Thailand,THA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,250708238320,0
+H4,2013,2013,2013,0,0,1,Import,788,Tunisia,TUN,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,24266395361,0
+H4,2013,2013,2013,0,0,1,Import,792,Turkey,TUR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,251650560072,0
+H4,2013,2013,2013,0,0,1,Import,800,Uganda,UGA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,5817510222,0
+H4,2013,2013,2013,0,0,1,Import,807,TFYR of Macedonia,MKD,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,6599824003,0
+H4,2013,2013,2013,0,0,1,Import,826,United Kingdom,GBR,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,655698173035,0
+H4,2013,2013,2013,0,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,12525411044,0
+H4,2013,2013,2013,0,0,1,Import,842,USA,USA,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,2328328632805,0
+H4,2013,2013,2013,0,0,1,Import,858,Uruguay,URY,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,11642380101,0
+H4,2013,2013,2013,0,0,1,Import,882,Samoa,WSM,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,366588279,0
+H4,2013,2013,2013,0,0,1,Import,894,Zambia,ZMB,0,World,WLD,TOTAL,All Commodities,1,No Quantity,,,10161842686,0

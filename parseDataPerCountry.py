@@ -1,5 +1,5 @@
 import csv
-report="USA"
+report="Japan"
 coordinates = {}
 delim = ","
 

@@ -21,71 +21,12 @@
 </div>
 <script>
     var map = new Datamap({element: document.getElementById('container')});
-       function createArcs(lines) {
-      var numLines = lines.length;
-      arcArray = [];
-      for (var k = 0; k < numLines; k++){
-          temp = 
-          {
-              origin: {
-                  latitude: lines[k][1],
-                  longitude: lines[k][2]
-              },
-              destination: {
-                  latitude: lines[k][4],
-                  longitude: lines[k][5] 
-              },
-              trade: lines[k][6]
-          };
 
-          arcArray.push(temp);
-          
-        }
-  }
-    var presidentialTrips = [
-        {
-            origin: {
-                latitude: 38.895111,
-                longitude: -77.036667
-            },
-            destination: {
-                latitude: 32.066667,
-                longitude: 34.783333 
-            },
-            trade: 10
-        },
-      
-        {
-            origin: {
-                latitude: 38.895111,
-                longitude: -77.036667
-            },
-            destination: {
-                latitude: 9.933333,
-                longitude: -84.083333
-            },
-            trade: 4
-
-        },
-        {
-            origin: {
-                latitude: 38.895111,
-                longitude: -77.036667
-            },
-            destination: {
-                latitude: 54.597 ,
-                longitude: -5.93
-            },
-            trade: 6
-        },
-       
-            
-    ];
+   
  
-  map.arc( presidentialTrips, {strokeWidth: 2, aOrigin: 3});
     $(document).ready(function() {
-	    $.get('imports.csv', function(data) {
-	   		processData(data);
+	    $.get('USA2013.csv', function(data) {
+			  map.arc( createArcs(processData(data)), {strokeWidth: 2, aOrigin: 3});
 	    }, 'text');
 
 	    $(".datamaps-arc").each(function(){
@@ -96,11 +37,14 @@
 	    	});
 
 
-
+/*
 	    	$(this).attr("data-toggle", "tooltip");
 	    	$(this).attr("data-placement", "top");
-	    	$(this).attr("title", $(this).attr("jake"));
+	    	$(this).attr("title", $(this).attr("jake"));   */
+
 	    });
+
+	    
 	    /*.hover(function(){
 			 $(this).css('fill', 'black');
 	    }, function(){

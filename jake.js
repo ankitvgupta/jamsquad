@@ -1,11 +1,6 @@
-$(document).ready(function() {
-		    $.get('imports.csv', function(data) {
-		   		processData(data);
-		    }, 'text');
-	});
+
 
     function processData(allText) {
-	    //var record_num = 22;  // or however many elements there are in each row
 	    var all = allText.split(/\r\n|\n/);
 	    var headings = all[0].split(',');
 	    var lines = [];
@@ -18,6 +13,30 @@ $(document).ready(function() {
 	        lines.push(result);
 	    }
 	    // alert(lines);
-	    //console.log(lines);
+	   // console.log(lines);
 	    return lines;
 	}
+
+
+	       function createArcs(lines) {
+      var numLines = lines.length;
+      arcArray = [];
+      for (var k = 0; k < numLines; k++){
+          temp = 
+          {
+              origin: {
+                  latitude: lines[k][1],
+                  longitude: lines[k][2]
+              },
+              destination: {
+                  latitude: lines[k][4],
+                  longitude: lines[k][5] 
+              },
+              trade: lines[k][6]
+          };
+
+          arcArray.push(temp);
+          
+        }
+        return arcArray;
+  }

@@ -18,6 +18,6 @@ $(document).ready(function() {
 	        lines.push(result);
 	    }
 	    // alert(lines);
-	    console.log(lines);
+	    //console.log(lines);
 	    return lines;
 	}

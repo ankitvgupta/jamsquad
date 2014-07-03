@@ -13,7 +13,7 @@ with open ('coord.csv','rb') as coordFile:
 reportCoord = coordinates[report]
 
 trade={}
-with open(report+ '2013export.csv','rb') as exportFile:
+with open('Data/'+report+ '2013export.csv','rb') as exportFile:
 	exportRead=csv.reader(exportFile)
 	count=0
 	for row in exportRead:
@@ -26,7 +26,7 @@ with open(report+ '2013export.csv','rb') as exportFile:
 
 namesCantMatch=[]
 countMatch=0
-with open(report+'2013import.csv','rb') as exportFile:
+with open('Data/'+report+'2013import.csv','rb') as exportFile:
 	exportRead=csv.reader(exportFile)
 	for row in exportRead:
 		partnerCountry= row[12]
@@ -50,7 +50,7 @@ print namesCantMatch
 countryWorks=[]
 namesCantMatch=[]
 
-with open(report+'2013.csv','wb') as output:
+with open('Data/'+'aggregate.txt','a') as output:
 	for country in trade:
 		if (country in coordinates.keys()):
 			countryWorks.append(country)
@@ -64,10 +64,7 @@ with open(report+'2013.csv','wb') as output:
 		else:
 			namesCantMatch.append(country)
 
-# print countryWorks
-# print len(countryWorks)
-
-# print "\n\n\n\n\n"
-print namesCantMatch
+print countryWorks
+print len(countryWorks)
 
 #OriginCountry OriginLat OriginLong DestCountry DestLat DestLong TRADE

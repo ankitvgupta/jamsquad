@@ -6,17 +6,13 @@
 
 <script src="jake.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-<style type="text/css">
-	.tooltip{
-		z-index: 20000;
-	}
-</style>
+
 
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 <!--<script src="data.js"></script> -->
 
-<div style='width:100%;height:100%'>
-<div id="container" style="position: relative; height: 500px;"></div>
+<div style='width:10000px;height:10000px'>
+<div id="container" style="position: relative; height: 4500px;"></div>
 <label id='val'> NONE </label>
 </div>
 <script>
@@ -26,16 +22,18 @@
  
     $(document).ready(function() {
 	    $.get('USA2013.csv', function(data) {
-			  map.arc( createArcs(processData(data)), {strokeWidth: 2, aOrigin: 3});
+			  map.arc( createArcs(processData(data)), {strokeWidth: 1, aOrigin: 3});
 			  $(".datamaps-arc").each(function(){
 	    	$(this).hover(function(){
 		    	$("#val").html($(this).attr("jake"));
+		    	$(this).css("stroke", "black");
 	    	}, function(){
+		    	$(this).css("stroke", "rgb(221, 28, 119)");
 
 	    	});
 
 	    });
-			  
+
 	    }, 'text');
 
 	    

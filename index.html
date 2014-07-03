@@ -26,27 +26,38 @@
 <div class='info'><label id='val'> NONE </label></div>
 </div>
 <script>
-    var map = new Datamap({element: document.getElementById('container')});
+ var map = new Datamap({element: document.getElementById('container')});
 
+    
    
  
     $(document).ready(function() {
 	    $.get('USA2013.csv', function(data) {
-			  map.arc( createArcs(processData(data)), {strokeWidth: 2, aOrigin: 3});
+
+	    	map.svg.selectAll('.datamaps-subunit')
+        .on('click', function(d) {
+        	countryName = d.properties.name;
+        	console.log(countryName);
+        	map.arc( createArcs(processData(data)).filter(function(element) {element[0] == countryName}), {strokeWidth: 2, aOrigin: 3});
 			  $(".datamaps-arc").each(function(){
 	    	$(this).hover(function(){
 		    	$("#val").html($(this).attr("jake"));
-		    	$(this).css("stroke", "black");
-		    	$(this).css("stroke-width", "10px");
 	    	}, function(){
-		    	$(this).css("stroke", "rgb(221, 28, 119)");
-		    	$(this).css("stroke-width", "1px");
 
 	    	});
 
 	    });
 
+
+        });
+
+			  
+			  
 	    }, 'text');
+
+
+
+        
 
 	    
 });

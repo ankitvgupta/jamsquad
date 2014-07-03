@@ -27,14 +27,19 @@
     $(document).ready(function() {
 	    $.get('USA2013.csv', function(data) {
 			  map.arc( createArcs(processData(data)), {strokeWidth: 2, aOrigin: 3});
-	    }, 'text');
-
-	    $(".datamaps-arc").each(function(){
+			  $(".datamaps-arc").each(function(){
 	    	$(this).hover(function(){
 		    	$("#val").html($(this).attr("jake"));
 	    	}, function(){
 
 	    	});
+
+	    });
+			  
+	    }, 'text');
+
+	    
+});
 
 
 /*
@@ -42,15 +47,12 @@
 	    	$(this).attr("data-placement", "top");
 	    	$(this).attr("title", $(this).attr("jake"));   */
 
-	    });
-
-	    
 	    /*.hover(function(){
 			 $(this).css('fill', 'black');
 	    }, function(){
 	    	$(this).css('fill', 'none');
 	    });*/
-});
+
 
  
 

@@ -32,7 +32,9 @@
                   latitude: lines[k][4],
                   longitude: lines[k][5] 
               },
-              trade: lines[k][6]
+              trade: lines[k][6],
+              c1: lines[k][0],
+              c2: lines[k][3]
           };
 
           arcArray.push(temp);

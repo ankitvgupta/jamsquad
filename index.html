@@ -6,14 +6,24 @@
 
 <script src="jake.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-
+<style type="text/css">
+	.info{
+		position: fixed;
+		z-index: 20000;
+		top: 0;
+		border:solid 5px black;
+		font-size: 60pt;
+		width: 2000px;
+		height: 200px;
+	}
+</style>
 
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 <!--<script src="data.js"></script> -->
 
 <div style='width:10000px;height:10000px'>
 <div id="container" style="position: relative; height: 4500px;"></div>
-<label id='val'> NONE </label>
+<div class='info'><label id='val'> NONE </label></div>
 </div>
 <script>
     var map = new Datamap({element: document.getElementById('container')});
@@ -22,13 +32,15 @@
  
     $(document).ready(function() {
 	    $.get('USA2013.csv', function(data) {
-			  map.arc( createArcs(processData(data)), {strokeWidth: 1, aOrigin: 3});
+			  map.arc( createArcs(processData(data)), {strokeWidth: 2, aOrigin: 3});
 			  $(".datamaps-arc").each(function(){
 	    	$(this).hover(function(){
 		    	$("#val").html($(this).attr("jake"));
 		    	$(this).css("stroke", "black");
+		    	$(this).css("stroke-width", "10px");
 	    	}, function(){
 		    	$(this).css("stroke", "rgb(221, 28, 119)");
+		    	$(this).css("stroke-width", "1px");
 
 	    	});
 

@@ -22,13 +22,13 @@ Belize,17.25,-88.77
 Benin,6.50,2.60
 Bermuda,32.29,-64.78
 Bhutan,27.47,89.64
-Bolivia,-19.03,-65.26
-Bosnia and Herzegovina,43.85,18.36
+Bolivia (Plurinational State of),-19.03,-65.26
+Bosnia Herzegovina,43.85,18.36
 Botswana,-24.65,25.91
 Brazil,-15.78,-47.93
-British Indian Ocean Territory,72.46,7.24
-British Virgin Islands,18.42,-64.62
-Brunei,4.94,114.95
+Br. Indian Ocean Terr.,72.46,7.24
+Br. Virgin Isds,18.42,-64.62
+Brunei Darussalam,4.94,114.95
 Bulgaria,42.70,23.32
 Burkina Faso,12.37,-1.53
 Burundi,-3.38,29.36
@@ -36,27 +36,27 @@ Cambodia,11.56,104.92
 Cameroon,3.87,11.52
 Canada,45.41,-75.70
 Cape Verde,14.93,-23.51
-Cayman Islands,19.29,-81.37
-Central African Republic,4.36,18.55
+Cayman Isds,19.29,-81.37
+Central African Rep.,4.36,18.55
 Chad,12.11,15.04
 Chile,-33.46,-70.65
 China,39.91,116.40
-Christmas Island,-10.42,105.68
-Cocos Islands,-12.16,96.82
+Christmas Isds,-10.42,105.68
+Cocos Isds,-12.16,96.82
 Colombia,4.61,-74.08
 Comoros,-11.70,43.26
-Cook Islands,-21.21,-159.78
+Cook Isds,-21.21,-159.78
 Costa Rica,9.93,-84.08
 Croatia,45.81,15.98
 Cuba,23.13,-82.38
 Cyprus,35.17,33.37
-Czech Republic,50.09,14.42
-Democratic Republic of the Congo,-4.32,15.31
+Czech Rep.,50.09,14.42
+Dem. Rep. of the Congo,-4.32,15.31
 Denmark,55.68,12.57
 Djibouti,11.59,43.15
 Dominica,15.30,-61.39
-Dominican Republic,18.50,-69.99
-East Timor,-8.56,125.57
+Dominican Rep.,18.50,-69.99
+Timor-Leste,-8.56,125.57
 Ecuador,-0.23,-78.52
 Egypt,30.06,31.25
 El Salvador,13.69,-89.19
@@ -64,7 +64,7 @@ Equatorial Guinea,3.75,8.78
 Eritrea,15.33,38.93
 Estonia,59.44,24.75
 Ethiopia,9.02,38.75
-Falkland Islands,-51.70,-57.85
+Falkland Isds (Malvinas),-51.70,-57.85
 Faroe Islands,62.01,-6.77
 Fiji,-18.14,178.44
 Finland,60.17,24.94
@@ -111,7 +111,7 @@ Kiribati,1.33,172.98
 Kosovo,42.67,21.17
 Kuwait,29.37,47.98
 Kyrgyzstan,42.87,74.59
-Laos,17.97,102.60
+Lao People's Dem. Rep.,17.97,102.60
 Latvia,56.95,24.11
 Lebanon,33.89,35.49
 Lesotho,-29.32,27.48
@@ -121,21 +121,21 @@ Liechtenstein,47.14,9.52
 Lithuania,54.69,25.28
 Luxembourg,49.61,6.13
 Macao,22.20,113.55
-Macedonia,42.00,21.43
+TFYR of Macedonia,42.00,21.43
 Madagascar,-18.91,47.54
 Malawi,-13.97,33.79
 Malaysia,3.14,101.69
 Maldives,4.17,73.51
 Mali,12.65,-8.00
 Malta,35.90,14.51
-Marshall Islands,7.09,171.38
+Marshall Isds,7.09,171.38
 Martinique,14.61,-61.07
 Mauritania,18.09,-15.98
 Mauritius,-20.16,57.50
 Mayotte,-12.78,45.23
 Mexico,19.43,-99.13
 Micronesia,6.92,158.16
-Moldova,47.01,28.86
+Rep. of Moldova,47.01,28.86
 Monaco,43.73,7.42
 Mongolia,47.91,106.88
 Montenegro,42.44,19.26
@@ -154,8 +154,8 @@ Nicaragua,12.13,-86.25
 Niger,13.51,2.11
 Nigeria,9.07,7.48
 Niue,-19.06,-169.92
-Norfolk Island,-29.05,167.97
-North Korea,39.03,125.75
+Norfolk Isds,-29.05,167.97
+Dem. People's Rep. of Korea,39.03,125.75
 Northern Mariana Islands,15.21,145.75
 Norway,59.91,10.75
 Oman,23.61,58.59
@@ -172,10 +172,10 @@ Poland,52.23,21.01
 Portugal,38.72,-9.13
 Puerto Rico,18.47,-66.11
 Qatar,25.28,51.52
-Republic of the Congo,-4.27,15.28
+Congo,-4.27,15.28
 Reunion,-20.88,55.45
 Romania,44.43,26.11
-Russia,55.75,37.62
+Russian Federation,55.75,37.62
 Rwanda,-1.95,30.06
 Saint Barthélemy,17.90,-62.85
 Saint Helena,-15.94,-5.72
@@ -199,7 +199,7 @@ Solomon Islands,-9.43,159.95
 Somalia,2.04,45.34
 South Africa,-25.74,28.19
 South Georgia and the South Sandwich Islands,-54.28,-36.51
-South Korea,37.57,126.98
+Rep. of Korea,37.57,126.98
 Spain,40.42,-3.70
 Sri Lanka,6.93,79.85
 Sudan,15.55,32.53
@@ -211,7 +211,7 @@ Switzerland,46.95,7.45
 Syria,33.51,36.29
 Taiwan,25.05,121.53
 Tajikistan,38.54,68.78
-Tanzania,-6.17,35.74
+United Rep. of Tanzania,-6.17,35.74
 Thailand,13.75,100.50
 Togo,6.14,1.21
 Tokelau,-171.85,-9.20
@@ -220,7 +220,7 @@ Trinidad and Tobago,10.67,-61.52
 Tunisia,36.82,10.17
 Turkey,39.92,32.85
 Turkmenistan,37.95,58.38
-Turks and Caicos Islands,21.46,-71.14
+Turks and Caicos Isds,21.46,-71.14
 Tuvalu,-8.52,179.19
 U.S. Virgin Islands,18.34,-64.93
 Uganda,0.32,32.58
@@ -231,10 +231,10 @@ USA,38.90,-77.04
 Uruguay,-34.83,-56.17
 Uzbekistan,41.26,69.22
 Vanuatu,-17.73,168.32
-Vatican,41.90,12.45
+Holy See (Vatican City State),41.90,12.45
 Venezuela,10.49,-66.88
-Vietnam,21.02,105.84
-Wallis and Futuna,-13.28,-176.17
+Viet Nam,21.02,105.84
+Wallis and Futuna Isds,-13.28,-176.17
 Western Sahara,27.16,-13.20
 Yemen,15.35,44.21
 Zambia,-15.41,28.29

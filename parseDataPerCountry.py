@@ -68,6 +68,6 @@ with open(report+'2013.csv','wb') as output:
 # print len(countryWorks)
 
 # print "\n\n\n\n\n"
-# print namesCantMatch
+print namesCantMatch
 
 #OriginCountry OriginLat OriginLong DestCountry DestLat DestLong TRADE

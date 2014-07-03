@@ -321,13 +321,35 @@ header,
 	    	$(this).attr("data-tooltip", "Im a tip yo");
 
 	    });
-
 	    /*.hover(function(){
 			 $(this).css('fill', 'black');
 	    }, function(){
 	    	$(this).css('fill', 'none');
 	    });*/
 });
+
+    function createArcs(lines) {
+      var numLines = lines.length;
+      arcArray = [];
+      for (var k = 0; k < numLines, k++){
+          temp = 
+          {
+              origin: {
+                  latitude: lines[k][1],
+                  longitude: lines[k][2]
+              },
+              destination: {
+                  latitude: lines[k][4],
+                  longitude: lines[k][5] 
+              },
+              trade: lines[k][6]
+          };
+
+          arcArray.push(temp);
+          
+        }
+  }
+
 
 </script>
 </html>
